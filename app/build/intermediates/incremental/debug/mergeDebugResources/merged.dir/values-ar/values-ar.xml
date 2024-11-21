@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="zero">%d إشعار جديد</item>
+    <item quantity="one">إشعار جديد واحد (%d)</item>
+    <item quantity="two">إشعاران جديدان (%d)</item>
+    <item quantity="few">%d إشعارات جديدة</item>
+    <item quantity="many">%d إشعارًا جديدًا</item>
+    <item quantity="other">%d إشعار جديد</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"التوجه إلى المنزل"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"خيارات أكثر"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"تم"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"مفعّلة"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"حذف"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"فضاء"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"القائمة+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"طلب بحث"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"البحث"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"بحث صوتي"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="bottomsheet_action_collapse">تصغير البطاقة السفلية</string>
+    <string name="bottomsheet_action_expand">توسيع البطاقة السفلية</string>
+    <string name="bottomsheet_action_expand_halfway">توسيع البطاقة السفلية</string>
+    <string name="bottomsheet_drag_handle_clicked">تم النقر مرّتين على مقبض السحب.</string>
+    <string name="bottomsheet_drag_handle_content_description">مقبض السحب</string>
+    <string name="call">يتصل</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"ردّ"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"فيديو"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"رفض"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"قطع الاتصال"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"مكالمة واردة"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"مكالمة جارية"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"يتم فحص المكالمة الواردة"</string>
+    <string name="character_counter_content_description">تمّ إدخال %1$d حرف من إجمالي %2$d.</string>
+    <string name="character_counter_overflowed_content_description">تجاوز عدد الأحرف المسموح به %1$d من %2$d.</string>
+    <string name="clear_text_end_icon_content_description">محو النص</string>
+    <string name="cometchat_accept">اقبل</string>
+    <string name="cometchat_accepted">وافقت</string>
+    <string name="cometchat_add_a_new_option">إضافة خيار جديد</string>
+    <string name="cometchat_add_members">إضافة أعضاء</string>
+    <string name="cometchat_add_reaction">إضافة رد فعل</string>
+    <string name="cometchat_add_to_chat">أضف إلى الدردشة</string>
+    <string name="cometchat_added">مضاف</string>
+    <string name="cometchat_admin">مشرف</string>
+    <string name="cometchat_ai_ice_breaker_text">توليد كاسحات الجليد...</string>
+    <string name="cometchat_all">جميع</string>
+    <string name="cometchat_ask_ai_bot">اسأل روبوتات الذكاء الاصطناعي</string>
+    <string name="cometchat_ask_bot">اسأل</string>
+    <string name="cometchat_ask_bot_subtitle">بوت الذكاء الاصطناعي</string>
+    <string name="cometchat_ban">بان</string>
+    <string name="cometchat_banned">محظور</string>
+    <string name="cometchat_banned_members">الأعضاء المحظورون</string>
+    <string name="cometchat_block_user">حظر المستخدم</string>
+    <string name="cometchat_book_new_slot">احجز فتحة جديدة</string>
+    <string name="cometchat_bot_first_message">كيف يمكنني مساعدتك في هذه المحادثة؟ من فضلك اسألني سؤالاً وسأنصحك 🙂</string>
+    <string name="cometchat_busy_call">مشغول</string>
+    <string name="cometchat_call_details">تفاصيل المكالمة</string>
+    <string name="cometchat_call_history">سجل المكالمات</string>
+    <string name="cometchat_calling">الاتصال</string>
+    <string name="cometchat_cancel">إلغاء</string>
+    <string name="cometchat_cancel_call">أُلغيت</string>
+    <string name="cometchat_cc_no_message">لا توجد رسائل هنا حتى الآن...</string>
+    <string name="cometchat_channel_description">قناة صفا</string>
+    <string name="cometchat_comet_chat_enter_a_text">أدخل نصًا</string>
+    <string name="cometchat_conference_call">مكالمة جماعية</string>
+    <string name="cometchat_conversation_summary">ملخص المحادثة</string>
+    <string name="cometchat_conversation_title">المحادثات</string>
+    <string name="cometchat_copy_message">نسخة</string>
+    <string name="cometchat_create_a_poll">إنشاء استطلاع للرأي</string>
+    <string name="cometchat_create_group">إنشاء مجموعة</string>
+    <string name="cometchat_custom_message_document">📃 وثيقة</string>
+    <string name="cometchat_custom_message_meeting">مكالمة جماعية 📹</string>
+    <string name="cometchat_custom_message_poll">📊 استطلاع للرأي</string>
+    <string name="cometchat_custom_message_sticker">💟 ملصق</string>
+    <string name="cometchat_custom_message_whiteboard">📝 السبورة</string>
+    <string name="cometchat_decline">تراجع</string>
+    <string name="cometchat_delete">حذف</string>
+    <string name="cometchat_delete_and_exit">حذف وخروج</string>
+    <string name="cometchat_delete_conversation_message">هل ترغب في حذف هذه المحادثة؟</string>
+    <string name="cometchat_delete_group_text">هل تريد بالتأكيد حذف المجموعة؟</string>
+    <string name="cometchat_delete_message">حذف</string>
+    <string name="cometchat_deleting_conversation">حذف المحادثة</string>
+    <string name="cometchat_deliver">تم التوصيل</string>
+    <string name="cometchat_details">التفاصيل</string>
+    <string name="cometchat_downloading">جارى التحميل</string>
+    <string name="cometchat_edit_message">تحرير</string>
+    <string name="cometchat_emoji">رمز تعبيري</string>
+    <string name="cometchat_ended">انتهى</string>
+    <string name="cometchat_enter_your_option">أدخل الخيار الخاص بك</string>
+    <string name="cometchat_err_blank_uid_message">لا يمكن أن يكون المعرف الفريد فارغًا. يرجى تقديم UID صالح</string>
+    <string name="cometchat_err_default_message">هناك خطأ ما</string>
+    <string name="cometchat_err_empty_group_name_message">لا يمكن أن يكون اسم المجموعة فارغًا أو فارغًا</string>
+    <string name="cometchat_err_internet_unavailable">لا يوجد إنترنت متاح</string>
+    <string name="cometchat_err_invalid_guid_message">الرجاء تقديم GUID صالح</string>
+    <string name="cometchat_err_invalid_uid_message">الرجاء تقديم UID صالح</string>
+    <string name="cometchat_err_no_options"> \ "الخيارات \" للاستطلاع إما مفقودة أو غير صالحة </string>
+    <string name="cometchat_err_no_poll_id"> الاستطلاع \ "id \" مفقود </string>
+    <string name="cometchat_err_no_question"> \ "السؤال \" للاستطلاع مفقود </string>
+    <string name="cometchat_err_no_receiver"> \ "المتلقي \" (UID / GUID) مفقود </string>
+    <string name="cometchat_err_no_receiver_type"> \ "نوع جهاز الاستقبال \" مفقود </string>
+    <string name="cometchat_err_not_poll_creator"> أنت لست منشئ الاستطلاع </string>
+    <string name="cometchat_err_password_missing_message">كلمة المرور إلزامية لمجموعة محمية</string>
+    <string name="cometchat_err_poll_not_found"> ​​الاستطلاع غير موجود </string>
+    <string name="cometchat_err_uid_with_space_message">لا يمكن أن يحتوي المعرف الفريد على مسافات. يرجى تقديم UID صالح</string>
+    <string name="cometchat_error">خطأ</string>
+    <string name="cometchat_extension_is_not_enabled">التمديد معطل. يرجى تمكين الامتداد من CometChat Dashboard</string>
+    <string name="cometchat_extension_not_found">تعذر العثور على الامتداد المقدم.</string>
+    <string name="cometchat_file_download_failed">فشل تنزيل الملف.</string>
+    <string name="cometchat_file_not_exist">الملف غير موجود</string>
+    <string name="cometchat_fill_this_field">املأ هذا الحقل</string>
+    <string name="cometchat_form_completion_message">شكرًا لك على ملء النموذج.</string>
+    <string name="cometchat_generate_summary">قم بإنشاء ملخص</string>
+    <string name="cometchat_generating_replies">توليد الردود</string>
+    <string name="cometchat_generating_summary">ملخص التوليد</string>
+    <string name="cometchat_grant_camera_permission">يرجى منح إذن الكاميرا من إعداد التطبيق</string>
+    <string name="cometchat_grant_phone_state_permission">يرجى منح إذن حالة الهاتف من إعداد التطبيق</string>
+    <string name="cometchat_grant_storage_permission">يرجى منح إذن تخزين من إعداد التطبيق</string>
+    <string name="cometchat_group_password">كلمة مرور المجموعة</string>
+    <string name="cometchat_groups">مجموعات</string>
+    <string name="cometchat_has_shared_group_call">شارك في مكالمة جماعية.</string>
+    <string name="cometchat_in_thread">في موضوع</string>
+    <string name="cometchat_incoming">واردة</string>
+    <string name="cometchat_incorrect_password">كلمة مرور خاطئة</string>
+    <string name="cometchat_is_typing">هو كتابة...</string>
+    <string name="cometchat_join">انضم</string>
+    <string name="cometchat_join_group_text">أدخل كلمة المرور للوصول إلى مجموعة %1$s. </string>
+    <string name="cometchat_joined">انضم</string>
+    <string name="cometchat_kicked_by">ركل</string>
+    <string name="cometchat_launch">إطلاق</string>
+    <string name="cometchat_leave_group">اترك المجموعة</string>
+    <string name="cometchat_leave_group_text">هل أنت متأكد أنك تريد مغادرة المجموعة؟</string>
+    <string name="cometchat_left">غادر</string>
+    <string name="cometchat_made">مصنوع</string>
+    <string name="cometchat_meet_with">اجتمع مع </string>
+    <string name="cometchat_member">عضو 成员</string>
+    <string name="cometchat_members">الأعضاء</string>
+    <string name="cometchat_message">اكتب رسالة</string>
+    <string name="cometchat_message_audio">🎵 الصوت</string>
+    <string name="cometchat_message_card"> 🪧بطاقة</string>
+    <string name="cometchat_message_file">📁 ملف</string>
+    <string name="cometchat_message_form">📋نموذج</string>
+    <string name="cometchat_message_image">📷 صور</string>
+    <string name="cometchat_message_information">معلومات</string>
+    <string name="cometchat_message_privately">أرسل رسالة بشكل خاص</string>
+    <string name="cometchat_message_receipt">استلام الرسالة»</string>
+    <string name="cometchat_message_video">📹 فيديو</string>
+    <string name="cometchat_messages">رسالة</string>
+    <string name="cometchat_min_meeting"> الاجتماع الرئيسي</string>
+    <string name="cometchat_missed_call">غاب</string>
+    <string name="cometchat_moderator">مدير الجلسة</string>
+    <string name="cometchat_more_option">أكثر</string>
+    <string name="cometchat_more_times">المزيد من المرات</string>
+    <string name="cometchat_name">حركة عدم الانحياز</string>
+    <string name="cometchat_new_chat">دردشة جديدة</string>
+    <string name="cometchat_new_group">مجموعة جديدة</string>
+    <string name="cometchat_new_message">رسالة جديدة</string>
+    <string name="cometchat_new_messages">رسائل جديدة</string>
+    <string name="cometchat_no">لا</string>
+    <string name="cometchat_no_call_record">لا توجد مكالمات</string>
+    <string name="cometchat_no_calls">لا توجد مكالمات</string>
+    <string name="cometchat_no_chats">ts الشاي</string>
+    <string name="cometchat_no_conversations">ليس لديك أي محادثات</string>
+    <string name="cometchat_no_groups">لا مجموعات</string>
+    <string name="cometchat_no_members">لا يوجد أعضاء</string>
+    <string name="cometchat_no_message_found">لم يتم العثور على رسالة</string>
+    <string name="cometchat_no_participants">لا يوجد مشاركون</string>
+    <string name="cometchat_no_quick_time_slots_available">لا توجد فترات زمنية متاحة</string>
+    <string name="cometchat_no_recipient">لا يوجد مستلم</string>
+    <string name="cometchat_no_recordings">لا توجد تسجيلات</string>
+    <string name="cometchat_no_stickers">لا توجد ملصقات متاحة</string>
+    <string name="cometchat_no_time_slots_available">لا توجد فترة زمنية متاحة لهذا التاريخ. يرجى تجربة تاريخ آخر.</string>
+    <string name="cometchat_no_user">لا مستخدمين</string>
+    <string name="cometchat_offline">غير متصل</string>
+    <string name="cometchat_okay">حسنا</string>
+    <string name="cometchat_online">على الشبكة</string>
+    <string name="cometchat_open_document">افتح المستند</string>
+    <string name="cometchat_option">خيارات</string>
+    <string name="cometchat_outgoing">المنتهية ولايته</string>
+    <string name="cometchat_owner">مالك</string>
+    <string name="cometchat_participant">مشارك</string>
+    <string name="cometchat_photo_video_library">مكتبة الصور والفيديو</string>
+    <string name="cometchat_please_try_another_password">يرجى تجربة كلمة مرور أخرى</string>
+    <string name="cometchat_protected_group">مجموعة محمية</string>
+    <string name="cometchat_question">سؤال</string>
+    <string name="cometchat_read">اقرأ</string>
+    <string name="cometchat_receipt_information">معلومات الاستلام</string>
+    <string name="cometchat_recordings">التسجيلات</string>
+    <string name="cometchat_rejected_call">مكالمة مرفوضة</string>
+    <string name="cometchat_replies">الردود</string>
+    <string name="cometchat_reply">الرد </string>
+    <string name="cometchat_reply_in_thread">الرد</string>
+    <string name="cometchat_sdk_incorrect_password_error">كلمة المرور الخاصة بالمجموعة غير صحيحة.</string>
+    <string name="cometchat_search">البحث</string>
+    <string name="cometchat_select_a_day">حدد اليوم</string>
+    <string name="cometchat_select_a_time">حدد الوقت</string>
+    <string name="cometchat_send_audio_files">إرسال ملفات صوتية</string>
+    <string name="cometchat_send_files">الملفات والمستندات</string>
+    <string name="cometchat_sensitive_content">محتوى غير آمن.</string>
+    <string name="cometchat_server_error"> خطأ في الخادم </string>
+    <string name="cometchat_share_message">شارك</string>
+    <string name="cometchat_share_whiteboard">مشاركة السبورة البيضاء</string>
+    <string name="cometchat_share_writeboard">مشاركة لوح الكتابة</string>
+    <string name="cometchat_shared_a_sticker">مشاركة ملصق</string>
+    <string name="cometchat_something_went_wrong">حدث خطأ ما.</string>
+    <string name="cometchat_something_went_wrong_please_try_again">حدث خطأ ما. يرجى المحاولة مرة أخرى.</string>
+    <string name="cometchat_suggest_a_reply">اقترح ردًا</string>
+    <string name="cometchat_tag_item">Tag Item</string>
+    <string name="cometchat_take_a_photo">التقط صورة</string>
+    <string name="cometchat_tap_to_remove">انقر للإزالة</string>
+    <string name="cometchat_tap_to_start_conversation">انقر لبدء المحادثة</string>
+    <string name="cometchat_text_copied">نص تم نسخه إلى الحافظة</string>
+    <string name="cometchat_this_message_deleted">⚠️ تم حذف هذه الرسالة</string>
+    <string name="cometchat_thread_title">خيط</string>
+    <string name="cometchat_time_at_a_time">مرات في كل مرة</string>
+    <string name="cometchat_time_slot_no_longer_available_please_choose_another">لم تعد الفترة الزمنية متاحة. يرجى اختيار آخر.</string>
+    <string name="cometchat_today">اليوم</string>
+    <string name="cometchat_transfer_ownership">أنت مالك المجموعة، يرجى نقل الملكية إلى عضو قبل مغادرة المجموعة.</string>
+    <string name="cometchat_transfer_ownership_text">نقل الملكية</string>
+    <string name="cometchat_translate_message">ترجم</string>
+    <string name="cometchat_translated_message">رسالة مترجمة</string>
+    <string name="cometchat_translation_error">لا يوجد ترجمة متوفرة</string>
+    <string name="cometchat_try_again">حاول مجددا</string>
+    <string name="cometchat_try_new_slot">تم حجز المكان الخاص بك، يرجى تجربة فتحة جديدة.</string>
+    <string name="cometchat_type_private">خاص</string>
+    <string name="cometchat_type_protected">محمي</string>
+    <string name="cometchat_type_public">عامة</string>
+    <string name="cometchat_unanswered">لم يتم الرد عليها</string>
+    <string name="cometchat_unban">نبان</string>
+    <string name="cometchat_unblock_user">إلغاء حظر المستخدم</string>
+    <string name="cometchat_updating">التحديث</string>
+    <string name="cometchat_uploading">تحميل</string>
+    <string name="cometchat_users">المستخدمون</string>
+    <string name="cometchat_video_call">مكالمة فيديو</string>
+    <string name="cometchat_view">عرض</string>
+    <string name="cometchat_view_members">عرض الأعضاء</string>
+    <string name="cometchat_view_profile">عرض الملف الشخصي</string>
+    <string name="cometchat_vote">تصويت</string>
+    <string name="cometchat_voted_success">تم التصويت على النجاح</string>
+    <string name="cometchat_votes">الأصوات</string>
+    <string name="cometchat_yes">نعم</string>
+    <string name="cometchat_yesterday">البارحة</string>
+    <string name="cometchat_you">أنت</string>
+    <string name="cometchat_you_can_mention_up_to">يمكنك ذكر ما يصل إلى</string>
+    <string name="cometchat_you_created_group_call">لقد قمت بإنشاء مكالمة جماعية.</string>
+    <string name="cometchat_your_meeting_has_been_scheduled">تمت جدولة اجتماعك.</string>
+    <string msgid="6083905920877235314" name="copy">"نسخ"</string>
+    <string name="error_icon_content_description">خطأ</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"إعدادات متقدمة"</string>
+    <string name="exposed_dropdown_menu_content_description">عرض القائمة المنسدلة</string>
+    <string name="group">مجموعة؟</string>
+    <string name="icon_content_description">رمز مربع الحوار</string>
+    <string name="item_view_role_description">علامة تبويب</string>
+    <string name="material_clock_toggle_content_description">يُرجى اختيار صباحًا أو مساءً.</string>
+    <string name="material_hour_24h_suffix">%1$s ساعة</string>
+    <string name="material_hour_selection">تحديد الساعة</string>
+    <string name="material_hour_suffix">الساعة %1$s</string>
+    <string name="material_minute_selection">تحديد الدقائق</string>
+    <string name="material_minute_suffix">%1$s دقيقة</string>
+    <string name="material_timepicker_am">صباحًا</string>
+    <string name="material_timepicker_clock_mode_description">يُرجى التبديل إلى وضع الساعة لإدخال الوقت.</string>
+    <string name="material_timepicker_hour">الساعة</string>
+    <string name="material_timepicker_minute">دقيقة</string>
+    <string name="material_timepicker_pm">مساءً</string>
+    <string name="material_timepicker_select_time">اختيار الوقت</string>
+    <string name="material_timepicker_text_input_mode_description">يُرجى التبديل إلى وضع إدخال النص لإدخال الوقت.</string>
+    <string name="mtrl_badge_numberless_content_description">إشعار جديد</string>
+    <string name="mtrl_chip_close_icon_content_description">إزالة %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">يبلغ عدد الإشعارات الجديدة أكثر من %1$d.</string>
+    <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
+    <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
+    <string name="mtrl_picker_announce_current_range_selection">اختيار تاريخ البدء: %1$s – اختيار تاريخ الانتهاء: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">بلا</string>
+    <string name="mtrl_picker_cancel">إلغاء</string>
+    <string name="mtrl_picker_confirm">حسنًا</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
+    <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
+    <string name="mtrl_picker_day_of_week_column_header">عمود الأيام: %1$s</string>
+    <string name="mtrl_picker_end_date_description">تاريخ الانتهاء: %1$s</string>
+    <string name="mtrl_picker_invalid_format">التنسيق غير صالح</string>
+    <string name="mtrl_picker_invalid_format_example">مثال: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">استخدام: %1$s</string>
+    <string name="mtrl_picker_invalid_range">النطاق غير صالح</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">الانتقال إلى السنة الحالية %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">التنقل إلى العام %1$d</string>
+    <string name="mtrl_picker_out_of_range">خارج النطاق: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">تاريخ البدء – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – تاريخ الانتهاء</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">يُرجى اختيار نطاق زمني.</string>
+    <string name="mtrl_picker_range_header_unselected">تاريخ البدء - تاريخ الانتهاء</string>
+    <string name="mtrl_picker_save">حفظ</string>
+    <string name="mtrl_picker_start_date_description">تاريخ البدء: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">التاريخ</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">تاريخ الانتهاء</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">تاريخ البدء</string>
+    <string name="mtrl_picker_text_input_day_abbr">ي</string>
+    <string name="mtrl_picker_text_input_month_abbr">ش</string>
+    <string name="mtrl_picker_text_input_year_abbr">س</string>
+    <string name="mtrl_picker_today_description">اليوم %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">التبديل إلى وضع \"الإدخال في التقويم\"</string>
+    <string name="mtrl_picker_toggle_to_day_selection">يمكنك النقر للتبديل إلى عرض \"تقويم Google\".</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">التبديل إلى وضع \"إدخال النص\"</string>
+    <string name="mtrl_picker_toggle_to_year_selection">يمكنك النقر للتبديل إلى عرض السنة.</string>
+    <string name="mtrl_timepicker_cancel">إلغاء</string>
+    <string name="mtrl_timepicker_confirm">حسنًا</string>
+    <string msgid="6573031135582639649" name="not_set">"لم يتمّ تحديد قيمة."</string>
+    <string name="password_toggle_content_description">عرض كلمة المرور</string>
+    <string msgid="6685851473431805375" name="preference_copied">"تم نسخ \"<ns1:g id="SUMMARY">%1$s</ns1:g>\" إلى الحافظة."</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"البحث"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>، <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"إيقاف"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"مفعّلة"</string>
+</resources>

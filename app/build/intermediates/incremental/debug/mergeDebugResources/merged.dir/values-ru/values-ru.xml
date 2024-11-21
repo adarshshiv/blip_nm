@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d новое уведомление</item>
+    <item quantity="few">%d новых уведомления</item>
+    <item quantity="many">%d новых уведомлений</item>
+    <item quantity="other">%d нового уведомления</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Ещё"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Выберите приложение"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ВЫКЛ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ВКЛ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Ввод"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Пробел"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Меню +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Введите запрос"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Поделиться с помощью"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Поделиться с помощью <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="bottomsheet_action_collapse">Свернуть нижний экран</string>
+    <string name="bottomsheet_action_expand">Развернуть нижний экран</string>
+    <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
+    <string name="bottomsheet_drag_handle_clicked">Двойное нажатие на маркер перемещения</string>
+    <string name="bottomsheet_drag_handle_content_description">Маркер перемещения</string>
+    <string name="call">Звонок</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Ответить"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Видео"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Отклонить"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Завершить"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Входящий вызов"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Текущий вызов"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Фильтрация входящего вызова"</string>
+    <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
+    <string name="character_counter_overflowed_content_description">Превышено ограничение на количество символов (%1$d из %2$d)</string>
+    <string name="clear_text_end_icon_content_description">Очистить текстовое поле</string>
+    <string name="cometchat_accept">Принять</string>
+    <string name="cometchat_accepted">принято</string>
+    <string name="cometchat_add_a_new_option">Добавить новый параметр</string>
+    <string name="cometchat_add_members">Добавить участников</string>
+    <string name="cometchat_add_reaction">Добавить реакцию</string>
+    <string name="cometchat_add_to_chat">" Добавить в чат"</string>
+    <string name="cometchat_added">добавлено</string>
+    <string name="cometchat_admin">Администратор</string>
+    <string name="cometchat_ai_ice_breaker_text">Генерация ледоколов...</string>
+    <string name="cometchat_all">Все</string>
+    <string name="cometchat_ask_ai_bot">Спросите роботов AI</string>
+    <string name="cometchat_ask_bot">Спросите</string>
+    <string name="cometchat_ask_bot_subtitle">ИИ-бот</string>
+    <string name="cometchat_ban">Запрет</string>
+    <string name="cometchat_banned">Забанен</string>
+    <string name="cometchat_banned_members">Забаненные участники</string>
+    <string name="cometchat_block_user">Заблокировать пользователя</string>
+    <string name="cometchat_book_new_slot">Забронируйте новый слот</string>
+    <string name="cometchat_bot_first_message">Чем я могу помочь вам в этом разговоре? Пожалуйста, задайте мне вопрос, и я дам вам совет 🙂</string>
+    <string name="cometchat_busy_call">Занят</string>
+    <string name="cometchat_call_details">Сведения о звонке</string>
+    <string name="cometchat_call_history">История звонков</string>
+    <string name="cometchat_calling">звонит</string>
+    <string name="cometchat_cancel">Отменить</string>
+    <string name="cometchat_cancel_call">Отменено</string>
+    <string name="cometchat_cc_no_message">Здесь пока нет сообщений...</string>
+    <string name="cometchat_channel_description">Описание канала</string>
+    <string name="cometchat_comet_chat_enter_a_text">Введите текст</string>
+    <string name="cometchat_conference_call">конференц-звонок</string>
+    <string name="cometchat_conversation_summary">Краткое содержание беседы</string>
+    <string name="cometchat_conversation_title">Разговоры</string>
+    <string name="cometchat_copy_message">Копировать</string>
+    <string name="cometchat_create_a_poll">Создание опроса</string>
+    <string name="cometchat_create_group">создать группу</string>
+    <string name="cometchat_custom_message_document">📃 Доска</string>
+    <string name="cometchat_custom_message_meeting">📹 Групповой вызов</string>
+    <string name="cometchat_custom_message_poll">📊 Опрос</string>
+    <string name="cometchat_custom_message_sticker">💟 Стикер</string>
+    <string name="cometchat_custom_message_whiteboard">📝 Документ</string>
+    <string name="cometchat_decline">Снижение</string>
+    <string name="cometchat_delete">Удалить</string>
+    <string name="cometchat_delete_and_exit">Удалить и выйти</string>
+    <string name="cometchat_delete_conversation_message">Вы хотите удалить этот разговор?</string>
+    <string name="cometchat_delete_group_text">Вы действительно хотите удалить группу?</string>
+    <string name="cometchat_delete_message">Удалить</string>
+    <string name="cometchat_deleting_conversation">Удаление разговора</string>
+    <string name="cometchat_deliver">Доставлено</string>
+    <string name="cometchat_details">Подробности</string>
+    <string name="cometchat_downloading">скачивание</string>
+    <string name="cometchat_edit_message">Редактировать</string>
+    <string name="cometchat_emoji">эмодзи</string>
+    <string name="cometchat_ended">Закончил</string>
+    <string name="cometchat_enter_your_option">Введите свой вариант</string>
+    <string name="cometchat_err_blank_uid_message">UID не может быть пустым. Пожалуйста, предоставьте действительный UID</string>
+    <string name="cometchat_err_default_message">что-то пошло не так</string>
+    <string name="cometchat_err_empty_group_name_message">Имя группы не может быть пустым или пустым.</string>
+    <string name="cometchat_err_internet_unavailable">Нет подключения к Интернету. Повторите попытку позже.</string>
+    <string name="cometchat_err_invalid_guid_message">Пожалуйста, предоставьте действительный GUID</string>
+    <string name="cometchat_err_invalid_uid_message">Пожалуйста, предоставьте действительный UID</string>
+    <string name="cometchat_err_no_options"> \"Параметры \" для опроса отсутствуют или недействительны </string>
+    <string name="cometchat_err_no_poll_id"> Опрос \"id \" отсутствует </string>
+    <string name="cometchat_err_no_question"> \"вопрос \" для опроса отсутствует </string>
+    <string name="cometchat_err_no_receiver"> \"получатель \" (UID / GUID) отсутствует </string>
+    <string name="cometchat_err_no_receiver_type"> \"ReceiverType \" отсутствует </string>
+    <string name="cometchat_err_not_poll_creator"> Вы не являетесь создателем опроса </string>
+    <string name="cometchat_err_password_missing_message">Пароль обязателен для защищенной группы</string>
+    <string name="cometchat_err_poll_not_found"> Опрос не существует </string>
+    <string name="cometchat_err_uid_with_space_message">UID не может содержать пробелов Пожалуйста, предоставьте действительный UID</string>
+    <string name="cometchat_error">Ошибка</string>
+    <string name="cometchat_extension_is_not_enabled">Расширение отключено. Пожалуйста, включите расширение из CometChat Dashboard</string>
+    <string name="cometchat_extension_not_found">Предоставленное расширение не может быть найдено.</string>
+    <string name="cometchat_file_download_failed">Не удалось загрузить файл.</string>
+    <string name="cometchat_file_not_exist">Файл не существует</string>
+    <string name="cometchat_fill_this_field">Заполните это поле</string>
+    <string name="cometchat_form_completion_message">Спасибо за заполнение формы.</string>
+    <string name="cometchat_generate_summary">Сгенерируйте сводку</string>
+    <string name="cometchat_generating_replies">Генерация ответов</string>
+    <string name="cometchat_generating_summary">Создание сводки</string>
+    <string name="cometchat_grant_camera_permission">Пожалуйста, предоставьте разрешение камеры из настройки приложения</string>
+    <string name="cometchat_grant_phone_state_permission">Пожалуйста, предоставьте разрешение Phone State в настройках приложения</string>
+    <string name="cometchat_grant_storage_permission">Предоставьте разрешение на хранение из настроек приложения</string>
+    <string name="cometchat_group_password">Пароль группы</string>
+    <string name="cometchat_groups">Группы</string>
+    <string name="cometchat_has_shared_group_call">поделился групповым вызовом.</string>
+    <string name="cometchat_in_thread">В потоке</string>
+    <string name="cometchat_incoming">Входящие</string>
+    <string name="cometchat_incorrect_password">Неверный пароль</string>
+    <string name="cometchat_is_typing">набирает...</string>
+    <string name="cometchat_join">Присоединиться</string>
+    <string name="cometchat_join_group_text">Введите пароль для доступа к группе %1$s. </string>
+    <string name="cometchat_joined">присоединился</string>
+    <string name="cometchat_kicked_by">пнул</string>
+    <string name="cometchat_launch">Запуск</string>
+    <string name="cometchat_leave_group">Покинуть группу</string>
+    <string name="cometchat_leave_group_text">Вы уверены, что хотите покинуть группу?</string>
+    <string name="cometchat_left">покинул группу</string>
+    <string name="cometchat_made">сделанный</string>
+    <string name="cometchat_meet_with">Встретьтесь с </string>
+    <string name="cometchat_member">Член</string>
+    <string name="cometchat_members">Участники</string>
+    <string name="cometchat_message">Напиши сообщение</string>
+    <string name="cometchat_message_audio">🎵 Аудио</string>
+    <string name="cometchat_message_card"> 🪧Карточка</string>
+    <string name="cometchat_message_file">📁 Файл</string>
+    <string name="cometchat_message_form">📋Форма</string>
+    <string name="cometchat_message_image">📷 Изображение</string>
+    <string name="cometchat_message_information">Информация</string>
+    <string name="cometchat_message_privately">Сообщение конфиденциально</string>
+    <string name="cometchat_message_receipt">Получение сообщения»</string>
+    <string name="cometchat_message_video">📹 Видео</string>
+    <string name="cometchat_messages">Послание</string>
+    <string name="cometchat_min_meeting"> главная встреча</string>
+    <string name="cometchat_missed_call">Пропустил</string>
+    <string name="cometchat_moderator">Модератор</string>
+    <string name="cometchat_more_option">больше</string>
+    <string name="cometchat_more_times">Больше раз</string>
+    <string name="cometchat_name">Нам</string>
+    <string name="cometchat_new_chat">Новый чат</string>
+    <string name="cometchat_new_group">Новая группа</string>
+    <string name="cometchat_new_message"> Новое сообщение</string>
+    <string name="cometchat_new_messages"> Новые сообщения</string>
+    <string name="cometchat_no">Нет</string>
+    <string name="cometchat_no_call_record">Нет звонков</string>
+    <string name="cometchat_no_calls">Нет звонков</string>
+    <string name="cometchat_no_chats">" Чай тс"</string>
+    <string name="cometchat_no_conversations">Чатов не найдено</string>
+    <string name="cometchat_no_groups">" Нет групп"</string>
+    <string name="cometchat_no_members">Нет участников</string>
+    <string name="cometchat_no_message_found">Сообщение не найдено</string>
+    <string name="cometchat_no_participants">Нет участников</string>
+    <string name="cometchat_no_quick_time_slots_available">Временных слотов нет</string>
+    <string name="cometchat_no_recipient">Нет получателя</string>
+    <string name="cometchat_no_recordings">Нет записей</string>
+    <string name="cometchat_no_stickers">Нет доступных наклеек</string>
+    <string name="cometchat_no_time_slots_available">Временной интервал на эту дату недоступен. Пожалуйста, попробуйте другую дату.</string>
+    <string name="cometchat_no_user">Нет пользователей</string>
+    <string name="cometchat_offline">оффлайн</string>
+    <string name="cometchat_okay">Хорошо</string>
+    <string name="cometchat_online">онлайн</string>
+    <string name="cometchat_open_document">Открыть документ</string>
+    <string name="cometchat_option">Опции</string>
+    <string name="cometchat_outgoing">Исходящий</string>
+    <string name="cometchat_owner">Владелец</string>
+    <string name="cometchat_participant">Участник</string>
+    <string name="cometchat_photo_video_library">Фото и видео тека</string>
+    <string name="cometchat_please_try_another_password">Пожалуйста, попробуйте другой пароль</string>
+    <string name="cometchat_protected_group">Защищенная группа</string>
+    <string name="cometchat_question">Вопрос</string>
+    <string name="cometchat_read">Прочтите</string>
+    <string name="cometchat_receipt_information">Информация о чеке</string>
+    <string name="cometchat_recordings">Записи</string>
+    <string name="cometchat_rejected_call">отклоненный вызов</string>
+    <string name="cometchat_replies">ответить</string>
+    <string name="cometchat_reply">ответить</string>
+    <string name="cometchat_reply_in_thread">Ответить</string>
+    <string name="cometchat_sdk_incorrect_password_error">Пароль для группы неверен.</string>
+    <string name="cometchat_search">Поиск</string>
+    <string name="cometchat_select_a_day">Выберите день</string>
+    <string name="cometchat_select_a_time">Выберите время</string>
+    <string name="cometchat_send_audio_files">Отправка аудиофайлов</string>
+    <string name="cometchat_send_files">Файлы и документы</string>
+    <string name="cometchat_sensitive_content">Небезопасное содержимое.</string>
+    <string name="cometchat_server_error"> Ошибка сервера </string>
+    <string name="cometchat_share_message">Поделись</string>
+    <string name="cometchat_share_whiteboard">Поделиться WhiteBoard</string>
+    <string name="cometchat_share_writeboard">Поделиться WriteBoard</string>
+    <string name="cometchat_shared_a_sticker">Поделился стикером</string>
+    <string name="cometchat_something_went_wrong">Что-то пошло не так.</string>
+    <string name="cometchat_something_went_wrong_please_try_again">Что-то пошло не так. Пожалуйста, попробуйте еще раз.</string>
+    <string name="cometchat_suggest_a_reply">Предложите ответ</string>
+    <string name="cometchat_tag_item">Tag Item</string>
+    <string name="cometchat_take_a_photo">Сфотографировать</string>
+    <string name="cometchat_tap_to_remove">Нажмите, чтобы удалить</string>
+    <string name="cometchat_tap_to_start_conversation">Нажмите, чтобы начать разговор</string>
+    <string name="cometchat_text_copied">Текст скопирован в буфер обмена</string>
+    <string name="cometchat_this_message_deleted">⚠️ Это сообщение удалено</string>
+    <string name="cometchat_thread_title">Тема</string>
+    <string name="cometchat_time_at_a_time">раз за раз</string>
+    <string name="cometchat_time_slot_no_longer_available_please_choose_another">Временной интервал больше не доступен. Пожалуйста, выберите другое.</string>
+    <string name="cometchat_today">Сегодня</string>
+    <string name="cometchat_transfer_ownership">Вы являетесь владельцем группы, пожалуйста, передайте право собственности участнику, прежде чем покинуть группу.</string>
+    <string name="cometchat_transfer_ownership_text">Передача права собственности</string>
+    <string name="cometchat_translate_message">Перевести</string>
+    <string name="cometchat_translated_message">Переведенное сообщение</string>
+    <string name="cometchat_translation_error">Перевод недоступен</string>
+    <string name="cometchat_try_again">ПОПРОБУЙТЕ СНОВА</string>
+    <string name="cometchat_try_new_slot">Ваш слот забронирован, попробуйте новый слот.</string>
+    <string name="cometchat_type_private">Частный</string>
+    <string name="cometchat_type_protected">Защищено</string>
+    <string name="cometchat_type_public">Общественные</string>
+    <string name="cometchat_unanswered">без ответа</string>
+    <string name="cometchat_unban">Разблокировать</string>
+    <string name="cometchat_unblock_user">Разблокировать пользователя</string>
+    <string name="cometchat_updating">обновление</string>
+    <string name="cometchat_uploading">загрузка</string>
+    <string name="cometchat_users">Пользователи</string>
+    <string name="cometchat_video_call">Видеозвонок</string>
+    <string name="cometchat_view">Посмотреть</string>
+    <string name="cometchat_view_members">Просмотреть участников</string>
+    <string name="cometchat_view_profile">Просмотреть профиль</string>
+    <string name="cometchat_vote">проголосовать</string>
+    <string name="cometchat_voted_success">Проголосовали успешно</string>
+    <string name="cometchat_votes">голоса</string>
+    <string name="cometchat_yes">Да</string>
+    <string name="cometchat_yesterday">Вчера</string>
+    <string name="cometchat_you">Вы</string>
+    <string name="cometchat_you_can_mention_up_to">Вы можете упомянуть до</string>
+    <string name="cometchat_you_created_group_call">Вы создали групповой вызов.</string>
+    <string name="cometchat_your_meeting_has_been_scheduled">Ваша встреча запланирована.</string>
+    <string msgid="6083905920877235314" name="copy">"Копировать"</string>
+    <string name="error_icon_content_description">Ошибка</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Дополнительно"</string>
+    <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
+    <string name="group">группа?</string>
+    <string name="icon_content_description">Значок диалогового окна</string>
+    <string name="item_view_role_description">Вкладка</string>
+    <string name="material_clock_toggle_content_description">Выберите AM (до полудня) или PM (после полудня)</string>
+    <string name="material_hour_24h_suffix">%1$s ч.</string>
+    <string name="material_hour_selection">Выберите час</string>
+    <string name="material_hour_suffix">%1$s ч.</string>
+    <string name="material_minute_selection">Выберите минуты</string>
+    <string name="material_minute_suffix">%1$s мин.</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Чтобы ввести время, перейдите в режим часов.</string>
+    <string name="material_timepicker_hour">Час</string>
+    <string name="material_timepicker_minute">Минуты</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Выбор времени</string>
+    <string name="material_timepicker_text_input_mode_description">Чтобы ввести время, перейдите в режим ввода текста.</string>
+    <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить \"%1$s\"</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Новых уведомлений больше %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Перейти к следующему месяцу</string>
+    <string name="mtrl_picker_a11y_prev_month">Перейти к предыдущему месяцу</string>
+    <string name="mtrl_picker_announce_current_range_selection">Выбранная дата начала: %1$s. Выбранная дата окончания: %2$s.</string>
+    <string name="mtrl_picker_announce_current_selection">Выбранный элемент: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">нет</string>
+    <string name="mtrl_picker_cancel">Отмена</string>
+    <string name="mtrl_picker_confirm">ОК</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Выберите дату</string>
+    <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
+    <string name="mtrl_picker_day_of_week_column_header">Столбец со днями недели: %1$s</string>
+    <string name="mtrl_picker_end_date_description">Дата окончания: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Недействительный формат.</string>
+    <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Недопустимый диапазон.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Перейти к текущему году: %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Перейти к %1$d году</string>
+    <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Дата начала – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – дата окончания</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Выберите диапазон дат</string>
+    <string name="mtrl_picker_range_header_unselected">Дата начала – дата окончания</string>
+    <string name="mtrl_picker_save">Сохранить</string>
+    <string name="mtrl_picker_start_date_description">Дата начала: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Дата</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Дата окончания</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Дата начала</string>
+    <string name="mtrl_picker_text_input_day_abbr">д</string>
+    <string name="mtrl_picker_text_input_month_abbr">м</string>
+    <string name="mtrl_picker_text_input_year_abbr">г</string>
+    <string name="mtrl_picker_today_description">Сегодня: %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Перейти в режим выбора дней</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Нажмите, чтобы перейти к Календарю</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Перейти в режим ввода текста</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Нажмите, чтобы выбрать год</string>
+    <string name="mtrl_timepicker_cancel">Отмена</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
+    <string msgid="6573031135582639649" name="not_set">"Не указано"</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
+    <string msgid="6685851473431805375" name="preference_copied">"Текст \"<ns1:g id="SUMMARY">%1$s</ns1:g>\" скопирован в буфер обмена"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Поиск"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"ВЫКЛ."</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ВКЛ."</string>
+</resources>

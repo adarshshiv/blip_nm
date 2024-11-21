@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d pemberitahuan baharu</item>
+    <item quantity="other">%d pemberitahuan baharu</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigasi laman utama"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navigasi ke atas"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Lagi pilihan"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Selesai"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Pilih apl"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"MATI"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"HIDUP"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fungsi+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"ruang"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Cari…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Kosongkan pertanyaan"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Pertanyaan carian"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Cari"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Serah pertanyaan"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Carian suara"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Kongsi dengan"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Kongsi dengan <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Runtuhkan"</string>
+    <string name="bottomsheet_action_collapse">Kuncupkan helaian bawah</string>
+    <string name="bottomsheet_action_expand">Kembangkan helaian bawah</string>
+    <string name="bottomsheet_action_expand_halfway">Kembangkan helaian bawah</string>
+    <string name="bottomsheet_drag_handle_clicked">Pemegang seret diketik dua kali</string>
+    <string name="bottomsheet_drag_handle_content_description">Pemegang seret</string>
+    <string name="call">Panggilan</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Jawab"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Tolak"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Tamatkan Panggilan"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Panggilan masuk"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Panggilan sedang berlangsung"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Menyaring panggilan masuk"</string>
+    <string name="character_counter_content_description">Aksara dimasukkan %1$d daripada %2$d</string>
+    <string name="character_counter_overflowed_content_description">Melebihi had aksara %1$d daripada %2$d</string>
+    <string name="clear_text_end_icon_content_description">Kosongkan teks</string>
+    <string name="cometchat_accept">Menerima</string>
+    <string name="cometchat_accepted">diterima</string>
+    <string name="cometchat_add_a_new_option">Tambah Opsyen Baru</string>
+    <string name="cometchat_add_members">Tambah Ahli</string>
+    <string name="cometchat_add_reaction">Add Reaction</string>
+    <string name="cometchat_add_to_chat">" Tambahkan pada Sembang"</string>
+    <string name="cometchat_added">tambah</string>
+    <string name="cometchat_admin">Admin</string>
+    <string name="cometchat_ai_ice_breaker_text">Menjana pemecah ais...</string>
+    <string name="cometchat_all">Semua</string>
+    <string name="cometchat_ask_ai_bot">Tanya AI Bots</string>
+    <string name="cometchat_ask_bot">Tanya</string>
+    <string name="cometchat_ask_bot_subtitle">AI Bot</string>
+    <string name="cometchat_ban">Ban</string>
+    <string name="cometchat_banned">Diharamkan</string>
+    <string name="cometchat_banned_members">Ahli yang Diharamkan</string>
+    <string name="cometchat_block_user">Sekat Pengguna</string>
+    <string name="cometchat_book_new_slot">Tempah slot baru</string>
+    <string name="cometchat_bot_first_message">Bagaimana saya boleh membantu anda dalam perbualan ini? Sila tanya saya soalan dan saya akan memberi nasihat kepada anda 🙂</string>
+    <string name="cometchat_busy_call">Sibuk</string>
+    <string name="cometchat_call_details">Butiran Panggilan</string>
+    <string name="cometchat_call_history">Sejarah Panggilan</string>
+    <string name="cometchat_calling">memanggil</string>
+    <string name="cometchat_cancel">Batal</string>
+    <string name="cometchat_cancel_call">Dibatalkan</string>
+    <string name="cometchat_cc_no_message">Belum ada mesej di sini...</string>
+    <string name="cometchat_channel_description">Penerangan Saluran</string>
+    <string name="cometchat_comet_chat_enter_a_text">Masukkan teks</string>
+    <string name="cometchat_conference_call">panggilan persidangan</string>
+    <string name="cometchat_conversation_summary">Ringkasan Perbualan</string>
+    <string name="cometchat_conversation_title">Perbualan</string>
+    <string name="cometchat_copy_message">Salin</string>
+    <string name="cometchat_create_a_poll">Buat Undian</string>
+    <string name="cometchat_create_group">buat kumpulan</string>
+    <string name="cometchat_custom_message_document">📃 Dokumen</string>
+    <string name="cometchat_custom_message_meeting">📹 Panggilan Berkumpulan</string>
+    <string name="cometchat_custom_message_poll">📊 Undian</string>
+    <string name="cometchat_custom_message_sticker">💟 Pelekat</string>
+    <string name="cometchat_custom_message_whiteboard">📝 Papan Putih</string>
+    <string name="cometchat_decline">Menolak</string>
+    <string name="cometchat_delete">Padam</string>
+    <string name="cometchat_delete_and_exit">Padam dan Keluar</string>
+    <string name="cometchat_delete_conversation_message">Adakah anda mahu memadamkan perbualan ini?</string>
+    <string name="cometchat_delete_group_text">Adakah anda pasti ingin memadam kumpulan?</string>
+    <string name="cometchat_delete_message">Padam</string>
+    <string name="cometchat_deleting_conversation">Memadamkan Perbualan</string>
+    <string name="cometchat_deliver">Dihantar</string>
+    <string name="cometchat_details">Butiran</string>
+    <string name="cometchat_downloading">memuat turun</string>
+    <string name="cometchat_edit_message">Sunting</string>
+    <string name="cometchat_emoji">emoji</string>
+    <string name="cometchat_ended">Berakhir</string>
+    <string name="cometchat_enter_your_option">Masukkan pilihan anda</string>
+    <string name="cometchat_err_blank_uid_message">UID tidak boleh kosong. Sila berikan UID yang sah</string>
+    <string name="cometchat_err_default_message">ada yang tidak kena</string>
+    <string name="cometchat_err_empty_group_name_message">Nama Kumpulan tidak boleh kosong atau kosong</string>
+    <string name="cometchat_err_internet_unavailable">Tiada sambungan internet. Sila cuba sebentar lagi</string>
+    <string name="cometchat_err_invalid_guid_message">Sila berikan GUID yang sah</string>
+    <string name="cometchat_err_invalid_uid_message">Sila berikan UID yang sah</string>
+    <string name="cometchat_err_no_options"> \"Pilihan \" untuk pengundian hilang atau tidak sah </string>
+    <string name="cometchat_err_no_poll_id"> Jajak pendapat \"id \" tidak ada </string>
+    <string name="cometchat_err_no_question"> \"Pertanyaan \" untuk tinjauan tidak ada </string>
+    <string name="cometchat_err_no_receiver"> \"penerima \" (UID / GUID) tidak ada </string>
+    <string name="cometchat_err_no_receiver_type"> \"ReceiverType \" tidak ada </string>
+    <string name="cometchat_err_not_poll_creator"> Anda bukan pencipta tinjauan pendapat </string>
+    <string name="cometchat_err_password_missing_message">Kata laluan adalah wajib bagi kumpulan yang dilindungi</string>
+    <string name="cometchat_err_poll_not_found"> ​​Polling tidak ada </string>
+    <string name="cometchat_err_uid_with_space_message">UID tidak boleh mengandungi ruang Sila berikan UID yang sah</string>
+    <string name="cometchat_error">Ralat</string>
+    <string name="cometchat_extension_is_not_enabled">Sambungan dilumpuhkan. Sila aktifkan sambungan dari CometChat Dashboard</string>
+    <string name="cometchat_extension_not_found">Sambungan yang disediakan tidak dapat dijumpai.</string>
+    <string name="cometchat_file_download_failed">Muat turun fail gagal.</string>
+    <string name="cometchat_file_not_exist">Fail tidak wujud</string>
+    <string name="cometchat_fill_this_field">Isi Medan ini</string>
+    <string name="cometchat_form_completion_message">Terima kasih kerana mengisi borang.</string>
+    <string name="cometchat_generate_summary">Menjana ringkasan</string>
+    <string name="cometchat_generating_replies">Menjana Balasan</string>
+    <string name="cometchat_generating_summary">Menjana Ringkasan</string>
+    <string name="cometchat_grant_camera_permission">Sila berikan kebenaran kamera daripada tetapan aplikasi</string>
+    <string name="cometchat_grant_phone_state_permission">Sila berikan kebenaran Negeri Telefon dari tetapan aplikasi</string>
+    <string name="cometchat_grant_storage_permission">Sila berikan kebenaran storan daripada tetapan aplikasi</string>
+    <string name="cometchat_group_password">Kata Laluan Kumpulan</string>
+    <string name="cometchat_groups">Kumpulan</string>
+    <string name="cometchat_has_shared_group_call">telah berkongsi panggilan kumpulan.</string>
+    <string name="cometchat_in_thread">Dalam benang</string>
+    <string name="cometchat_incoming">Masuk</string>
+    <string name="cometchat_incorrect_password">Kata Laluan yang salah</string>
+    <string name="cometchat_is_typing">sedang menaip...</string>
+    <string name="cometchat_join">Sertailah</string>
+    <string name="cometchat_join_group_text">Masukkan kata laluan untuk mengakses kumpulan %1$s. </string>
+    <string name="cometchat_joined">menyertai</string>
+    <string name="cometchat_kicked_by">ditendang</string>
+    <string name="cometchat_launch">Lancarkan</string>
+    <string name="cometchat_leave_group">Cuti Kumpulan</string>
+    <string name="cometchat_leave_group_text">Adakah anda pasti mahu meninggalkan kumpulan?</string>
+    <string name="cometchat_left">meninggalkan kumpulan</string>
+    <string name="cometchat_made">dibuat</string>
+    <string name="cometchat_meet_with">Bertemu Dengan </string>
+    <string name="cometchat_member">Ahli</string>
+    <string name="cometchat_members">Ahli-ahli</string>
+    <string name="cometchat_message">Tulis mesej</string>
+    <string name="cometchat_message_audio">🎵 Audio</string>
+    <string name="cometchat_message_card"> 🪧Kad</string>
+    <string name="cometchat_message_file">📁 Fail</string>
+    <string name="cometchat_message_form">📋Borang</string>
+    <string name="cometchat_message_image">📷 Foto</string>
+    <string name="cometchat_message_information">Maklumat</string>
+    <string name="cometchat_message_privately">Mesej Persendirian</string>
+    <string name="cometchat_message_receipt">Resit Mesej”</string>
+    <string name="cometchat_message_video">📹 Video</string>
+    <string name="cometchat_messages">Pesanan</string>
+    <string name="cometchat_min_meeting"> mesyuarat min</string>
+    <string name="cometchat_missed_call">Terlepas</string>
+    <string name="cometchat_moderator">Moderator</string>
+    <string name="cometchat_more_option">lebih lagi</string>
+    <string name="cometchat_more_times">Lebih banyak kali</string>
+    <string name="cometchat_name">NAM</string>
+    <string name="cometchat_new_chat">Sembang Baru</string>
+    <string name="cometchat_new_group">Kumpulan Baru</string>
+    <string name="cometchat_new_message">Mesej baru</string>
+    <string name="cometchat_new_messages">Mesej Baru</string>
+    <string name="cometchat_no">Tidak</string>
+    <string name="cometchat_no_call_record">Tiada Panggilan</string>
+    <string name="cometchat_no_calls">Tiada Panggilan</string>
+    <string name="cometchat_no_chats">Teh ts</string>
+    <string name="cometchat_no_conversations">Anda tidak mempunyai perbualan.</string>
+    <string name="cometchat_no_groups">Tiada Kumpulan</string>
+    <string name="cometchat_no_members">Tiada Ahli</string>
+    <string name="cometchat_no_message_found">Tiada Mesej Ditemui</string>
+    <string name="cometchat_no_participants">Tiada Peserta</string>
+    <string name="cometchat_no_quick_time_slots_available">Tiada slot masa tersedia</string>
+    <string name="cometchat_no_recipient">Tiada Penerima</string>
+    <string name="cometchat_no_recordings">Tiada Rakaman</string>
+    <string name="cometchat_no_stickers">Tiada Pelekat Tersedia</string>
+    <string name="cometchat_no_time_slots_available">Tiada slot masa tersedia untuk tarikh ini. Sila cuba tarikh lain.</string>
+    <string name="cometchat_no_user">" Tiada Pengguna"</string>
+    <string name="cometchat_offline">di luar talian</string>
+    <string name="cometchat_okay">Baiklah</string>
+    <string name="cometchat_online">dalam talian</string>
+    <string name="cometchat_open_document">Buka Dokumen</string>
+    <string name="cometchat_option">Pilihan</string>
+    <string name="cometchat_outgoing">Keluar</string>
+    <string name="cometchat_owner">Pemilik</string>
+    <string name="cometchat_participant">Peserta</string>
+    <string name="cometchat_photo_video_library">Pustaka Foto &amp; Video</string>
+    <string name="cometchat_please_try_another_password">Sila cuba kata laluan lain</string>
+    <string name="cometchat_protected_group">Kumpulan Dilindungi</string>
+    <string name="cometchat_question">Soalan</string>
+    <string name="cometchat_read">Baca</string>
+    <string name="cometchat_receipt_information">Maklumat Resit</string>
+    <string name="cometchat_recordings">Rakaman</string>
+    <string name="cometchat_rejected_call">Ditolak</string>
+    <string name="cometchat_replies">Balasan</string>
+    <string name="cometchat_reply">jawapan</string>
+    <string name="cometchat_reply_in_thread">Balas</string>
+    <string name="cometchat_sdk_incorrect_password_error">Kata laluan untuk kumpulan tidak betul.</string>
+    <string name="cometchat_search">Cari</string>
+    <string name="cometchat_select_a_day">Pilih Hari</string>
+    <string name="cometchat_select_a_time">Pilih Masa</string>
+    <string name="cometchat_send_audio_files">Hantar Fail Audio</string>
+    <string name="cometchat_send_files">Fail &amp; Dokumen</string>
+    <string name="cometchat_sensitive_content">Kandungan tidak selamat.</string>
+    <string name="cometchat_server_error"> Ralat pelayan </string>
+    <string name="cometchat_share_message">Kongsi</string>
+    <string name="cometchat_share_whiteboard">Kongsi Papan Putih</string>
+    <string name="cometchat_share_writeboard">Kongsi WriteBoard</string>
+    <string name="cometchat_shared_a_sticker">Dikongsi Pelekat</string>
+    <string name="cometchat_something_went_wrong">Ada yang tidak kena.</string>
+    <string name="cometchat_something_went_wrong_please_try_again">Ada yang salah. Sila cuba lagi.</string>
+    <string name="cometchat_suggest_a_reply">Cadangkan balasan</string>
+    <string name="cometchat_tag_item">Tag Item</string>
+    <string name="cometchat_take_a_photo">Ambil Foto</string>
+    <string name="cometchat_tap_to_remove">Ketik untuk membuang</string>
+    <string name="cometchat_tap_to_start_conversation">Ketik untuk memulakan perbualan</string>
+    <string name="cometchat_text_copied">Teks disalin ke Klipbod</string>
+    <string name="cometchat_this_message_deleted">⚠️ Mesej ini telah dipadamkan</string>
+    <string name="cometchat_thread_title">Benang</string>
+    <string name="cometchat_time_at_a_time">Kali pada satu masa</string>
+    <string name="cometchat_time_slot_no_longer_available_please_choose_another">Slot masa tidak lagi tersedia. Sila pilih yang lain.</string>
+    <string name="cometchat_today">Hari ini</string>
+    <string name="cometchat_transfer_ownership">Anda adalah pemilik kumpulan, sila pindahkan pemilikan kepada ahli sebelum meninggalkan kumpulan.</string>
+    <string name="cometchat_transfer_ownership_text">Pindahkan Pemilikan</string>
+    <string name="cometchat_translate_message">Terjemah</string>
+    <string name="cometchat_translated_message">Mesej Diterjemahkan</string>
+    <string name="cometchat_translation_error">Terjemahan Tidak Ada</string>
+    <string name="cometchat_try_again">CUBA LAGI</string>
+    <string name="cometchat_try_new_slot">Slot anda telah ditempah, sila cuba slot baru.</string>
+    <string name="cometchat_type_private">Swasta</string>
+    <string name="cometchat_type_protected">Dilindungi</string>
+    <string name="cometchat_type_public">Awam</string>
+    <string name="cometchat_unanswered">tidak dijawab</string>
+    <string name="cometchat_unban">Unban</string>
+    <string name="cometchat_unblock_user">Nyahsekat Pengguna</string>
+    <string name="cometchat_updating">Mengemas kini</string>
+    <string name="cometchat_uploading">memuat naik</string>
+    <string name="cometchat_users">Pengguna</string>
+    <string name="cometchat_video_call">Panggilan Video</string>
+    <string name="cometchat_view">Lihat</string>
+    <string name="cometchat_view_members">Lihat Ahli</string>
+    <string name="cometchat_view_profile">Lihat profil</string>
+    <string name="cometchat_vote">Undi</string>
+    <string name="cometchat_voted_success">Berjaya Mengundi</string>
+    <string name="cometchat_votes">Undi</string>
+    <string name="cometchat_yes">Ya</string>
+    <string name="cometchat_yesterday">Semalam</string>
+    <string name="cometchat_you">Anda</string>
+    <string name="cometchat_you_can_mention_up_to">Anda boleh menyebut sehingga</string>
+    <string name="cometchat_you_created_group_call">Anda telah membuat panggilan kumpulan.</string>
+    <string name="cometchat_your_meeting_has_been_scheduled">Mesyuarat anda telah dijadualkan.</string>
+    <string msgid="6083905920877235314" name="copy">"Salin"</string>
+    <string name="error_icon_content_description">Ralat</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Terperinci"</string>
+    <string name="exposed_dropdown_menu_content_description">Tunjukkan menu lungsur</string>
+    <string name="group">kumpulan?</string>
+    <string name="icon_content_description">Ikon Dialog</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="material_clock_toggle_content_description">Pilih AM atau PM</string>
+    <string name="material_hour_24h_suffix">%1$s jam</string>
+    <string name="material_hour_selection">Pilih jam</string>
+    <string name="material_hour_suffix">Pukul %1$s</string>
+    <string name="material_minute_selection">Pilih minit</string>
+    <string name="material_minute_suffix">%1$s minit</string>
+    <string name="material_timepicker_am">PG</string>
+    <string name="material_timepicker_clock_mode_description">Beralih ke mod jam untuk input masa.</string>
+    <string name="material_timepicker_hour">Jam</string>
+    <string name="material_timepicker_minute">Minit</string>
+    <string name="material_timepicker_pm">P/M</string>
+    <string name="material_timepicker_select_time">Pilih masa</string>
+    <string name="material_timepicker_text_input_mode_description">Beralih ke mod input teks untuk input masa.</string>
+    <string name="mtrl_badge_numberless_content_description">Pemberitahuan baharu</string>
+    <string name="mtrl_chip_close_icon_content_description">Alih keluar %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Lebih daripada %1$d pemberitahuan baharu</string>
+    <string name="mtrl_picker_a11y_next_month">Tukar kepada bulan seterusnya</string>
+    <string name="mtrl_picker_a11y_prev_month">Tukar kepada bulan sebelumnya</string>
+    <string name="mtrl_picker_announce_current_range_selection">Pilihan tarikh mula: %1$s – Pilihan tarikh tamat: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Pilihan semasa: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">tiada</string>
+    <string name="mtrl_picker_cancel">Batal</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Pilih Tarikh</string>
+    <string name="mtrl_picker_date_header_unselected">Tarikh dipilih</string>
+    <string name="mtrl_picker_day_of_week_column_header">Lajur hari: %1$s</string>
+    <string name="mtrl_picker_end_date_description">Tarikh tamat %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format tidak sah.</string>
+    <string name="mtrl_picker_invalid_format_example">Contoh: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Gunakan: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Julat tidak sah.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Navigasi ke tahun semasa %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigasi ke tahun %1$d</string>
+    <string name="mtrl_picker_out_of_range">Di luar julat: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Tarikh mula – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Tarikh tamat</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Pilih Julat</string>
+    <string name="mtrl_picker_range_header_unselected">Tarikh mula – Tarikh tamat</string>
+    <string name="mtrl_picker_save">Simpan</string>
+    <string name="mtrl_picker_start_date_description">Tarikh mula %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Tarikh</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Tarikh tamat</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Tarikh mula</string>
+    <string name="mtrl_picker_text_input_day_abbr">h</string>
+    <string name="mtrl_picker_text_input_month_abbr">b</string>
+    <string name="mtrl_picker_text_input_year_abbr">t</string>
+    <string name="mtrl_picker_today_description">Hari ini %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Beralih kepada mod input kalendar</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Ketik untuk menukar kepada paparan Kalendar</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Beralih kepada mod input teks</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Ketik untuk menukar kepada paparan tahun</string>
+    <string name="mtrl_timepicker_cancel">Batal</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="6573031135582639649" name="not_set">"Tidak ditetapkan"</string>
+    <string name="password_toggle_content_description">Tunjukkan kata laluan</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" disalin ke papan keratan."</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Cari"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"MATI"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"HIDUP"</string>
+</resources>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cometchat.kotlinsampleapp-mergeDebugResources-50:/values-sw360dp-v13/values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/adarshshiv/.gradle/caches/transforms-3/9775686b76ee8b1ebc25227df02f14e9/transformed/preference-1.2.0/res/values-sw360dp-v13/values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "71",
+                        "endOffsets": "122"
+                    }
+                }
+            ]
+        }
+    ]
+}

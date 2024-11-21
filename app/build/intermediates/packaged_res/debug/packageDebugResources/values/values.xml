@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array>
+    <string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>
+            MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=
+        </item>
+    </string-array>
+    <string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>
+            MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK
+        </item>
+    </string-array>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amethysta</item>
+    </array>
+    <color name="accent1">#ea4633</color>
+    <color name="accent2">#e9527e</color>
+    <color name="accent3">#9f50b0</color>
+    <color name="accent4">#3f51b5</color>
+    <color name="accent5">#2296f3</color>
+    <color name="accent6">#53bdd4</color>
+    <color name="accent7">#489789</color>
+    <color name="app_background">#efeef3</color>
+    <color name="app_background_dark">#000000</color>
+    <color name="background1">#5daf50</color>
+    <color name="background2">#8bc34a</color>
+    <color name="background3">#cddc39</color>
+    <color name="background4">#ffeb3b</color>
+    <color name="background5">#f9c028</color>
+    <color name="background6">#f2972c</color>
+    <color name="background7">#795548</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#03A9F4</color>
+    <color name="colorPrimaryDark">#006ccb</color>
+    <color name="green">#009688</color>
+    <color name="grey1">#eeeeef</color>
+    <color name="primaryTextColor">#FF000000</color>
+    <color name="purple">#9C27B0</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#F44336</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="violet">#673AB7</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFC107</color>
+    <string name="add_member">This Component is used to add users to a group. To learn more about this component tap here.</string>
+    <string name="app_name">Android UI Kit</string>
+    <string name="audio_bubble">CometChatAudioBubble displays a media message containing a audio to learn more about this component tap here.</string>
+    <string name="avatar_description">CometChatAvatar component displays an image or user/group avatar with fallback to the first two letters of the user name/group name.</string>
+    <string name="badgeCount_description">CometChatBadgeCount is a custom component which is used to display the unread message count. It can be used in places like ConversationListItem, etc.</string>
+    <string name="banned_members_desc">This component is used to Display banned members of a group. To learn more about this component tap here.</string>
+    <string name="call_button">CometChatCallButtons is an independent component that will allows you make a call.</string>
+    <string name="call_details_component">CometChatCallsDetails is an independent component that will allows you make a call along with the users or group details.</string>
+    <string name="call_history_component">CometChatCallsHistory is an independent component used to set up a screen that shows the recent call logs .</string>
+    <string name="call_history_with_details_component">CometChatCallsHistory is an independent component used to set up a screen that shows the recent call logs and allows you to open details screen.</string>
+    <string name="card_bubble">The CometChatCardBubble component is used to display a card within a chat list. To learn more about this component tap here.</string>
+    <string name="component_chats">CometChatConversations is an independent component used to set up a screen that shows the recent conversations alone</string>
+    <string name="component_chats_list">CometChatConversationList component renders a scrollable list of all recent conversations in your app.</string>
+    <string name="component_contacts">CometChatContacts is a versatile UI component specifically designed to streamlines the process of showcasing all app users and available chat groups in a user-friendly interface, making it easier for users to connect and communicate effectively.</string>
+    <string name="component_create_groups">The component is used to create a new group. Groups can of three types-public, private or password protected. To learn more about this component tap here.</string>
+    <string name="component_groups">CometChatGroups is an independent component used to set up a screen that displays the list of groups available in your app and gives you the ability to search for a specific group.</string>
+    <string name="component_groups_list">CometChatGroupList component renders a scrollable list of groups in your app.</string>
+    <string name="component_user_details">This component can be used to view information about a user to learn more about this component tap here.</string>
+    <string name="component_users">CometChatUsers is an independent component used to set up a screen that displays a scrollable list of users available in your app and gives you the ability to search for a specific user.</string>
+    <string name="conversation_list_item">CometChatConversationListItem is a reusable component which is used to display the conversation list item in the conversation list.</string>
+    <string name="copyright">\u00A9 2022 CometChat Inc.</string>
+    <string name="data_item">CometChatListItem is a reusable component which is used across multiple components in different variations such as Users, Groups, Conversation, etc as a List item.</string>
+    <string name="data_item_group">CometChatDataItem is used to display the group list item in the group list. It houses the Avatar, Status indicator, Title and Subtitle.</string>
+    <string name="data_item_user">CometChatDataItem is used to display the user list item in a user list. It houses the Avatar, Status indicator and Title</string>
+    <string name="file_bubble">CometChatFileBubble displays a media message containing a file to learn more about this component tap here.</string>
+    <string name="fill_this_field">Fill this field</string>
+    <string name="form_bubble">The CometChatFormBubble component is used to render a form within a chat list.\nTo learn more about this component tap here</string>
+    <string name="group_details">This component can be used to view information about a group to learn more this component tap here.</string>
+    <string name="group_member">This Component is used to view members in a group. To learn more about this component tap here.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="image_bubble">CometChatImageBubble displays a media message containing a image to learn more about this component tap here.</string>
+    <string name="join_protected_group">This component is used to join a password protected group. to learn more about this component tap here.</string>
+    <string name="language_english">Language</string>
+    <string name="language_hindi">भाषा</string>
+    <string name="listItem">CometChatListItem displays data on a title and that tile may contain leading, trailing, title and subtitle widgets. To learn more about this component tap here.</string>
+    <string name="localize_english_overview">CometChatLocalize allows you to detect the language of your users based on their browser or device settings and set the language accordingly.</string>
+    <string name="localize_hindi_overview">CometChatLocalize आपको अपने ब्राउज़र या डिवाइस सेटिंग्स के आधार पर अपने उपयोगकर्ताओं की भाषा का पता लगाने और उसके अनुसार भाषा सेट करने की अनुमति देता है।</string>
+    <string name="media_recorder">The CometChatMediaRecorder is a custom Android component that provides a user interface for recording audio and playing back the recorded audio. It is designed to be easily integrated into chat applications or other projects where audio messaging is required.</string>
+    <string name="message_composer">CometChatComposer is an independent and a critical component that allows users to compose and send various types of messages such as text, image, video and custom messages.</string>
+    <string name="message_header">CometChatMessageHeader is an independent component that  displays the User or Group information using SDK\'s User or Group object.</string>
+    <string name="message_information_des">The CometChatMessageInformation component is a custom UI view designed to display message-related information, such as delivery and read receipts. It serves as an integral part of the CometChat UI UIKit.</string>
+    <string name="message_list">CometChatMessageList displays a list of messages and handles real-time operations.</string>
+    <string name="message_receipt">CometChatMessageReceipt component renders the receipts such as sending, sent, delivered, read and error state indicator of a message.</string>
+    <string name="module_chats">CometChatConversationsWithMessages is an independent component used to set up a screen that shows the recent conversations and allows you to send a message to the user or group from the list.</string>
+    <string name="module_groups">CometChatGroupsWithMessages is an independent component used to set up a screen that shows the list of groups available in your app and gives you the ability to search for a specific group and to start a conversation.</string>
+    <string name="module_messages">Messages module helps you to send and receive in a conversation between a user or group. To learn more about its components click here.</string>
+    <string name="module_shared">Share module contains several reusable components that are divided into Primary, Secondary and SDK derived components. To learn more about these components click here.</string>
+    <string name="module_users">CometChatUsersWithMessages is an independent component used to set up a screen that shows the list of users available in your app and gives you the ability to search for a specific user and to start conversation.</string>
+    <string name="no_sample_users_available">No Sample Users Available.</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="scheduler_bubble">The CometChatSchedulerBubble component is used to display a event scheduler within a chat list. To learn more about this component tap here.</string>
+    <string name="sound_manager">CometChatSoundManager allows you to play different types of audio which is required for incoming and outgoing events in UI Kit. for example, events like incoming and outgoing messages.</string>
+    <string name="statusIndicator_description">StatusIndicator component indicates whether a user is online or offline.</string>
+    <string name="super_module_calls">Calls module helps you to list the recent call history between your users and groups. To learn more about this component click here.</string>
+    <string name="super_module_chats">Conversations module helps you to list the recent conversations between your users and groups. To learn more about its components click here.</string>
+    <string name="super_module_groups">Groups module helps you list all the groups you are part of in your app. To learn more about its components click here.</string>
+    <string name="super_module_messages">Messages module helps you to send and receive in a conversation between a user or group. To learn more about its components click here.</string>
+    <string name="super_module_users">Users module helps you list all the users available in your app. To learn more about its components click here.</string>
+    <string name="text_bubble">CometChatTextBubble displays text message to learn more about this component tap here.</string>
+    <string name="theme">CometChatTheme is a style applied to every component and every view in the activity or component in the UI Kit.</string>
+    <string name="transfer_ownership">This Component is used to transfer ownership of a group from one user to another. To learn more about this component tap here.</string>
+    <string name="video_bubble">CometChatVideoBubble displays a media message containing a video to learn more about this component tap here.</string>
+    <string name="view_english">View</string>
+    <string name="view_hindi">देखें</string>
+    <style name="AppHeading">
+        <item name="android:textStyle">italic</item>
+        <item name="android:fontFamily">@font/amarante</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+    <style name="AppName">
+        <item name="android:fontWeight" ns1:targetApi="o">500</item>
+        <item name="android:fontFamily">@font/amethysta</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+    <style name="AppText1">
+        <item name="android:fontWeight" ns1:targetApi="o">400</item>
+        <item name="android:fontFamily">@font/amethysta</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+    <style name="AppText2">
+        <item name="android:fontWeight" ns1:targetApi="o">500</item>
+        <item name="android:fontFamily">@font/amethysta</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="Base.Theme.CometChatSampleAppKotlin" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/app_background</item>
+        <item name="colorPrimaryVariant">@color/app_background</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/cometchat_primary</item>
+        <item name="colorSecondaryVariant">@color/cometchat_primary</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Heading">
+        <item name="android:fontWeight" ns1:targetApi="o">500</item>
+        <item name="android:fontFamily">roboto</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="Name">
+        <item name="android:fontWeight" ns1:targetApi="o">500</item>
+        <item name="android:fontFamily">roboto</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+    <style name="Text1">
+        <item name="android:fontWeight" ns1:targetApi="o">400</item>
+        <item name="android:fontFamily">roboto</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+    <style name="Text2">
+        <item name="android:fontWeight" ns1:targetApi="o">500</item>
+        <item name="android:fontFamily">roboto</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+</resources>

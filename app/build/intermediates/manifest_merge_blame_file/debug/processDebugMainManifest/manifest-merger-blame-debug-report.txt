@@ -1,0 +1,409 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cometchat.kotlinsampleapp"
+4    android:versionCode="4"
+5    android:versionName="4.3.13" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission
+12-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:6:5-80
+13        android:name="android.permission.READ_EXTERNAL_STORAGE"
+13-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:6:22-77
+14        android:maxSdkVersion="32" />
+14-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:20:9-35
+15    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+15-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:7:5-82
+15-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:7:22-79
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:8:5-68
+16-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:8:22-65
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:10:5-79
+17-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:10:22-76
+18    <uses-permission android:name="android.permission.CAMERA" />
+18-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:12:5-65
+18-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:12:22-62
+19    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+19-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:13:5-71
+19-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:13:22-68
+20    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+20-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:14:5-80
+20-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:14:22-77
+21    <uses-permission
+21-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:15:5-17:38
+22        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+22-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:16:9-65
+23        android:maxSdkVersion="32" />
+23-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:17:9-35
+24    <uses-permission android:name="android.permission.VIBRATE" />
+24-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:21:5-66
+24-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:21:22-63
+25
+26    <queries>
+26-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:23:5-37:15
+27        <intent>
+27-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:24:9-28:18
+28            <action android:name="android.intent.action.GET_CONTENT" />
+28-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:25:13-72
+28-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:25:21-69
+29
+30            <data android:mimeType="image/* video/*" />
+30-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:27:13-56
+30-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:27:19-53
+31        </intent>
+32        <intent>
+32-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:29:9-33:18
+33            <action android:name="android.intent.action.PICK" />
+33-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:30:13-65
+33-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:30:21-62
+34
+35            <data android:mimeType="image/* video/*" />
+35-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:27:13-56
+35-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:27:19-53
+36        </intent>
+37        <intent>
+37-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:34:9-36:18
+38            <action android:name="android.intent.action.CHOOSER" />
+38-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:35:13-68
+38-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:35:21-65
+39        </intent>
+40    </queries>
+41
+42    <uses-permission android:name="android.permission.BLUETOOTH" />
+42-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:12:5-68
+42-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:12:22-65
+43    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+43-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:13:5-76
+43-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:13:22-73
+44    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+44-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:13:5-76
+44-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:13:22-73
+45    <uses-permission android:name="android.permission.MANAGE_OWN_CALLS" />
+45-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:17:5-75
+45-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:17:22-72
+46    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+46-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:20:5-78
+46-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:20:22-75
+47    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+47-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:22:5-76
+47-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:22:22-73
+48    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+48-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:23:5-77
+48-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:23:22-74
+49
+50    <uses-feature
+50-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:25:5-27:35
+51        android:glEsVersion="0x00020000"
+51-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:26:9-41
+52        android:required="true" />
+52-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:27:9-32
+53
+54    <permission
+54-->[androidx.core:core:1.13.0] /Users/adarshshiv/.gradle/caches/transforms-3/c13ecee24e6d66c8faa89816739d46bd/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+55        android:name="com.cometchat.kotlinsampleapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+55-->[androidx.core:core:1.13.0] /Users/adarshshiv/.gradle/caches/transforms-3/c13ecee24e6d66c8faa89816739d46bd/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+56        android:protectionLevel="signature" />
+56-->[androidx.core:core:1.13.0] /Users/adarshshiv/.gradle/caches/transforms-3/c13ecee24e6d66c8faa89816739d46bd/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+57
+58    <uses-permission android:name="com.cometchat.kotlinsampleapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+58-->[androidx.core:core:1.13.0] /Users/adarshshiv/.gradle/caches/transforms-3/c13ecee24e6d66c8faa89816739d46bd/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+58-->[androidx.core:core:1.13.0] /Users/adarshshiv/.gradle/caches/transforms-3/c13ecee24e6d66c8faa89816739d46bd/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+59
+60    <application
+60-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:10:5-50:19
+61        android:name="com.cometchat.kotlinsampleapp.Application"
+61-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:11:9-65
+62        android:allowBackup="true"
+62-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:12:9-35
+63        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+63-->[androidx.core:core:1.13.0] /Users/adarshshiv/.gradle/caches/transforms-3/c13ecee24e6d66c8faa89816739d46bd/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+64        android:dataExtractionRules="@xml/data_extraction_rules"
+64-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:13:9-65
+65        android:exported="true"
+65-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:30:9-32
+66        android:extractNativeLibs="true"
+67        android:fullBackupContent="@xml/backup_rules"
+67-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:14:9-54
+68        android:hardwareAccelerated="true"
+68-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:40:9-43
+69        android:icon="@mipmap/ic_launcher"
+69-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:15:9-43
+70        android:label="@string/app_name"
+70-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:16:9-41
+71        android:requestLegacyExternalStorage="true"
+71-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:17:9-52
+72        android:roundIcon="@mipmap/ic_launcher_round"
+72-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:18:9-54
+73        android:supportsRtl="true"
+73-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:19:9-35
+74        android:testOnly="true"
+75        android:theme="@style/Base.Theme.CometChatSampleAppKotlin"
+75-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:20:9-67
+76        android:usesCleartextTraffic="true" >
+76-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:32:9-44
+77        <activity
+77-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:22:9-24:40
+78            android:name="com.cometchat.kotlinsampleapp.activity.LoginActivity"
+78-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:23:13-80
+79            android:exported="false" />
+79-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:24:13-37
+80        <activity
+80-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:25:9-27:40
+81            android:name="com.cometchat.kotlinsampleapp.activity.HomeActivity"
+81-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:26:13-79
+82            android:exported="false" />
+82-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:27:13-37
+83        <activity
+83-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:28:9-30:40
+84            android:name="com.cometchat.kotlinsampleapp.activity.CreateUserActivity"
+84-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:29:13-85
+85            android:exported="false" />
+85-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:30:13-37
+86        <activity
+86-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:31:9-33:40
+87            android:name="com.cometchat.kotlinsampleapp.activity.ComponentLaunchActivity"
+87-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:32:13-90
+88            android:exported="false" />
+88-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:33:13-37
+89        <activity
+89-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:34:9-36:40
+90            android:name="com.cometchat.kotlinsampleapp.activity.ComponentListActivity"
+90-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:35:13-88
+91            android:exported="false" />
+91-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:36:13-37
+92        <activity
+92-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:37:9-45:20
+93            android:name="com.cometchat.kotlinsampleapp.activity.MainActivity"
+93-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:38:13-79
+94            android:exported="true" >
+94-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:39:13-36
+95            <intent-filter>
+95-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:40:13-44:29
+96                <action android:name="android.intent.action.MAIN" />
+96-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:41:17-69
+96-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:41:25-66
+97
+98                <category android:name="android.intent.category.LAUNCHER" />
+98-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:43:17-77
+98-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:43:27-74
+99            </intent-filter>
+100        </activity>
+101
+102        <meta-data
+102-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:47:9-49:57
+103            android:name="preloaded_fonts"
+103-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:48:13-43
+104            android:resource="@array/preloaded_fonts" />
+104-->/Users/adarshshiv/projects/Blip/app/src/main/AndroidManifest.xml:49:13-54
+105
+106        <activity
+106-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:44:9-46:71
+107            android:name="com.cometchat.chatuikit.shared.permission.CometChatPermissionActivity"
+107-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:45:13-97
+108            android:theme="@style/UiKit.Internal.Theme.Transparent" />
+108-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:46:13-68
+109        <activity
+109-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:47:9-54:20
+110            android:name="com.cometchat.chatuikit.users.CometChatUserActivity"
+110-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:48:13-79
+111            android:exported="false"
+111-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:49:13-37
+112            android:screenOrientation="portrait" >
+112-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:50:13-49
+113            <meta-data
+113-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:51:13-53:36
+114                android:name="android.app.lib_name"
+114-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:52:17-52
+115                android:value="" />
+115-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:53:17-33
+116        </activity>
+117        <activity
+117-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:55:9-62:20
+118            android:name="com.cometchat.chatuikit.groups.CometChatGroupActivity"
+118-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:56:13-81
+119            android:exported="false"
+119-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:57:13-37
+120            android:screenOrientation="portrait" >
+120-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:58:13-49
+121            <meta-data
+121-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:51:13-53:36
+122                android:name="android.app.lib_name"
+122-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:52:17-52
+123                android:value="" />
+123-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:53:17-33
+124        </activity>
+125        <activity
+125-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:63:9-66:52
+126            android:name="com.cometchat.chatuikit.calls.calldetails.CallLogDetailsActivity"
+126-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:64:13-92
+127            android:exported="true"
+127-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:65:13-36
+128            android:screenOrientation="portrait" />
+128-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:66:13-49
+129        <activity
+129-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:67:9-70:52
+130            android:name="com.cometchat.chatuikit.calls.CometChatCallActivity"
+130-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:68:13-79
+131            android:exported="true"
+131-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:69:13-36
+132            android:screenOrientation="portrait" />
+132-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:70:13-49
+133        <activity
+133-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:71:9-78:20
+134            android:name="com.cometchat.chatuikit.messages.MessageActivity"
+134-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:72:13-76
+135            android:exported="true"
+135-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:73:13-36
+136            android:screenOrientation="portrait" >
+136-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:74:13-49
+137            <meta-data
+137-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:51:13-53:36
+138                android:name="android.app.lib_name"
+138-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:52:17-52
+139                android:value="" />
+139-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:53:17-33
+140        </activity>
+141        <activity
+141-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:79:9-82:52
+142            android:name="com.cometchat.chatuikit.threadedmessages.ThreadedMessagesActivity"
+142-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:80:13-93
+143            android:exported="false"
+143-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:81:13-37
+144            android:screenOrientation="portrait" />
+144-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:82:13-49
+145        <activity
+145-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:83:9-86:52
+146            android:name="com.cometchat.chatuikit.extensions.collaborative.CometChatWebViewActivity"
+146-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:84:13-101
+147            android:exported="false"
+147-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:85:13-37
+148            android:screenOrientation="portrait" />
+148-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:86:13-49
+149        <activity
+149-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:87:9-90:39
+150            android:name="com.cometchat.chatuikit.shared.views.mediaview.CometChatMediaViewActivity"
+150-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:88:13-101
+151            android:configChanges="orientation|screenSize|screenLayout|smallestScreenSize"
+151-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:89:13-91
+152            android:exported="true" />
+152-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:90:13-36
+153
+154        <meta-data
+154-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:92:9-94:48
+155            android:name="com.cometchat.chatuikit"
+155-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:93:13-51
+156            android:value="com.cometchat.kotlinsampleapp" />
+156-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:94:13-45
+157
+158        <provider
+158-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:96:9-104:20
+159            android:name="androidx.core.content.FileProvider"
+159-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:97:13-62
+160            android:authorities="com.cometchat.kotlinsampleapp.provider"
+160-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:98:13-60
+161            android:exported="false"
+161-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:99:13-37
+162            android:grantUriPermissions="true" >
+162-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:100:13-47
+163            <meta-data
+163-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:101:13-103:57
+164                android:name="android.support.FILE_PROVIDER_PATHS"
+164-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:102:17-67
+165                android:resource="@xml/provider_path" />
+165-->[com.cometchat:chat-uikit-android:4.3.16] /Users/adarshshiv/.gradle/caches/transforms-3/b896f64fb32525736e8b6435eab6a339/transformed/jetified-chat-uikit-android-4.3.16/AndroidManifest.xml:103:17-54
+166        </provider>
+167
+168        <activity
+168-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:34:9-36:40
+169            android:name="com.cometchat.calls.CallScreenActivity"
+169-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:35:13-66
+170            android:exported="false" />
+170-->[com.cometchat:calls-sdk-android:4.0.2] /Users/adarshshiv/.gradle/caches/transforms-3/98dc85682733030e753be7fe6fd074ce/transformed/jetified-calls-sdk-android-4.0.2/AndroidManifest.xml:36:13-37
+171
+172        <provider
+172-->[androidx.emoji2:emoji2:1.2.0] /Users/adarshshiv/.gradle/caches/transforms-3/8840109b3ac8962e6e1af7379ad90a78/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+173            android:name="androidx.startup.InitializationProvider"
+173-->[androidx.emoji2:emoji2:1.2.0] /Users/adarshshiv/.gradle/caches/transforms-3/8840109b3ac8962e6e1af7379ad90a78/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+174            android:authorities="com.cometchat.kotlinsampleapp.androidx-startup"
+174-->[androidx.emoji2:emoji2:1.2.0] /Users/adarshshiv/.gradle/caches/transforms-3/8840109b3ac8962e6e1af7379ad90a78/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+175            android:exported="false" >
+175-->[androidx.emoji2:emoji2:1.2.0] /Users/adarshshiv/.gradle/caches/transforms-3/8840109b3ac8962e6e1af7379ad90a78/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+176            <meta-data
+176-->[androidx.emoji2:emoji2:1.2.0] /Users/adarshshiv/.gradle/caches/transforms-3/8840109b3ac8962e6e1af7379ad90a78/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+177                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+177-->[androidx.emoji2:emoji2:1.2.0] /Users/adarshshiv/.gradle/caches/transforms-3/8840109b3ac8962e6e1af7379ad90a78/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+178                android:value="androidx.startup" />
+178-->[androidx.emoji2:emoji2:1.2.0] /Users/adarshshiv/.gradle/caches/transforms-3/8840109b3ac8962e6e1af7379ad90a78/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+179            <meta-data
+179-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/adarshshiv/.gradle/caches/transforms-3/5e87ac80247c94e2a6b7537b183c9f4f/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+180                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+180-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/adarshshiv/.gradle/caches/transforms-3/5e87ac80247c94e2a6b7537b183c9f4f/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+181                android:value="androidx.startup" />
+181-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/adarshshiv/.gradle/caches/transforms-3/5e87ac80247c94e2a6b7537b183c9f4f/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+182            <meta-data
+182-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+183                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+183-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+184                android:value="androidx.startup" />
+184-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+185        </provider>
+186
+187        <uses-library
+187-->[androidx.window:window:1.0.0] /Users/adarshshiv/.gradle/caches/transforms-3/a04ff9171ec1a7f2f319e1575115820f/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+188            android:name="androidx.window.extensions"
+188-->[androidx.window:window:1.0.0] /Users/adarshshiv/.gradle/caches/transforms-3/a04ff9171ec1a7f2f319e1575115820f/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+189            android:required="false" />
+189-->[androidx.window:window:1.0.0] /Users/adarshshiv/.gradle/caches/transforms-3/a04ff9171ec1a7f2f319e1575115820f/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+190        <uses-library
+190-->[androidx.window:window:1.0.0] /Users/adarshshiv/.gradle/caches/transforms-3/a04ff9171ec1a7f2f319e1575115820f/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+191            android:name="androidx.window.sidecar"
+191-->[androidx.window:window:1.0.0] /Users/adarshshiv/.gradle/caches/transforms-3/a04ff9171ec1a7f2f319e1575115820f/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+192            android:required="false" />
+192-->[androidx.window:window:1.0.0] /Users/adarshshiv/.gradle/caches/transforms-3/a04ff9171ec1a7f2f319e1575115820f/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+193
+194        <receiver
+194-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+195            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+195-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+196            android:directBootAware="false"
+196-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+197            android:enabled="true"
+197-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+198            android:exported="true"
+198-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+199            android:permission="android.permission.DUMP" >
+199-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+200            <intent-filter>
+200-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+201                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+201-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+201-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+202            </intent-filter>
+203            <intent-filter>
+203-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+204                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+204-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+204-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+205            </intent-filter>
+206            <intent-filter>
+206-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+207                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+207-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+207-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+208            </intent-filter>
+209            <intent-filter>
+209-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+210                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+210-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+210-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/adarshshiv/.gradle/caches/transforms-3/ef02c923b97575be93921d2f10637244/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+211            </intent-filter>
+212        </receiver>
+213    </application>
+214
+215</manifest>

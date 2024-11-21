@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/activity_component_launch.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/activity_component_launch.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_video_bubble.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_video_bubble.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_audio_bubble.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_audio_bubble.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_avatar.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_avatar.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_add_member.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_add_member.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_file_bubble.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_file_bubble.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_message_list.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_message_list.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_sound_manager.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_sound_manager.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_users.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_users.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_card_bubble.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_card_bubble.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_theme.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_theme.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_scheduler_bubble.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_scheduler_bubble.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_group_details.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_group_details.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_groups.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_groups.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_messages.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_messages.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_message_composer.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_message_composer.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_call_log_with_details.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_call_log_with_details.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_call_log_participants.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_call_log_participants.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_list_item.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_list_item.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_media_recorder.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_media_recorder.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_call_log_recording.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_call_log_recording.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_group_members.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_group_members.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_text_bubble.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_text_bubble.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_localize.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_localize.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_message_information.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_message_information.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/activity_home.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_conversations_with_messages.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_conversations_with_messages.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_users_with_messages.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_users_with_messages.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_transfer_ownership.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_transfer_ownership.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_groups_with_messages.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_groups_with_messages.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_conversations.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_conversations.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_create_group.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_create_group.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_call_log_history.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_call_log_history.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_image_bubble.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_image_bubble.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_form_bubble.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_form_bubble.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_contacts.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_contacts.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_call_button.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_call_button.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/activity_create_user.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/activity_create_user.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_user_details.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_user_details.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_join_protected_group.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_join_protected_group.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/activity_login.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/activity_component_list.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/activity_component_list.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_message_receipt.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_message_receipt.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_call_logs.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_call_logs.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_badge_count.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_badge_count.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_banned_members.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_banned_members.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_message_header.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_message_header.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_call_details.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_call_details.xml"
+    },
+    {
+        "merged": "com.cometchat.kotlinsampleapp-mergeDebugResources-51:/layout/fragment_status_indicator.xml",
+        "source": "com.cometchat.kotlinsampleapp-main-54:/layout/fragment_status_indicator.xml"
+    }
+]

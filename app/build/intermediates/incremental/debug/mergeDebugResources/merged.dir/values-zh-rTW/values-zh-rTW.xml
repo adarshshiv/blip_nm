@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d 則新通知</item>
+    <item quantity="other">%d 則新通知</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"瀏覽首頁"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"完成"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"關閉"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"開啟"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete 鍵"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"空格鍵"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"分享對象"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"與「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="bottomsheet_action_collapse">收合底部功能表</string>
+    <string name="bottomsheet_action_expand">展開底部功能表</string>
+    <string name="bottomsheet_action_expand_halfway">展開一半</string>
+    <string name="bottomsheet_drag_handle_clicked">已輕觸兩下拖曳控點</string>
+    <string name="bottomsheet_drag_handle_content_description">拖曳控點</string>
+    <string name="call">通話</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"接聽"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"視訊"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"拒接"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"掛斷"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"來電"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"通話中"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"正在過濾來電"</string>
+    <string name="character_counter_content_description">已輸入 %1$d 個字元 (上限為 %2$d 個字元)</string>
+    <string name="character_counter_overflowed_content_description">超過字元限制 (共 %1$d 字元，上限 %2$d 字元)</string>
+    <string name="clear_text_end_icon_content_description">清除文字</string>
+    <string name="cometchat_accept">接受</string>
+    <string name="cometchat_accepted">接受</string>
+    <string name="cometchat_add_a_new_option">新增選項</string>
+    <string name="cometchat_add_members">新增成員</string>
+    <string name="cometchat_add_reaction">添加反應</string>
+    <string name="cometchat_added">添加</string>
+    <string name="cometchat_admin">管理員</string>
+    <string name="cometchat_ai_ice_breaker_text">產生破冰器...</string>
+    <string name="cometchat_all">全部</string>
+    <string name="cometchat_ask_ai_bot">詢問 AI 機器人</string>
+    <string name="cometchat_ask_bot">詢問</string>
+    <string name="cometchat_ask_bot_subtitle">人工智能機器人</string>
+    <string name="cometchat_ban">禁令</string>
+    <string name="cometchat_banned">禁止</string>
+    <string name="cometchat_banned_members">被禁止的成員</string>
+    <string name="cometchat_block_user">封鎖使用者</string>
+    <string name="cometchat_book_new_slot">預訂新老虎機</string>
+    <string name="cometchat_bot_first_message">我該如何幫助您進行這個對話？請問我一個問題，我會給你建議 🙂</string>
+    <string name="cometchat_busy_call">忙碌</string>
+    <string name="cometchat_call_details">通話詳情</string>
+    <string name="cometchat_call_history">通話記錄</string>
+    <string name="cometchat_calling">呼叫</string>
+    <string name="cometchat_cancel">取消</string>
+    <string name="cometchat_cancel_call">已取消</string>
+    <string name="cometchat_cc_no_message">這裡還沒有消息...</string>
+    <string name="cometchat_comet_chat_enter_a_text">輸入文字</string>
+    <string name="cometchat_conference_call">電話會議</string>
+    <string name="cometchat_conversation_summary">對話摘要</string>
+    <string name="cometchat_conversation_title">對話內容</string>
+    <string name="cometchat_copy_message">複製</string>
+    <string name="cometchat_create_a_poll">建立投票</string>
+    <string name="cometchat_custom_message_document">📃 文件</string>
+    <string name="cometchat_custom_message_meeting">"📹 群组通话 "</string>
+    <string name="cometchat_custom_message_poll">📊 投票</string>
+    <string name="cometchat_custom_message_sticker">💟 貼紙</string>
+    <string name="cometchat_custom_message_whiteboard">📝 白板</string>
+    <string name="cometchat_decline">拒絕</string>
+    <string name="cometchat_delete">刪除</string>
+    <string name="cometchat_delete_and_exit">刪除並退出</string>
+    <string name="cometchat_delete_conversation_message">您要删除此对话吗？</string>
+    <string name="cometchat_delete_group_text">您確定要刪除群組嗎？</string>
+    <string name="cometchat_delete_message">刪除</string>
+    <string name="cometchat_deleting_conversation">删除对话</string>
+    <string name="cometchat_deliver">已交付</string>
+    <string name="cometchat_details">詳細資料</string>
+    <string name="cometchat_downloading">正在下載</string>
+    <string name="cometchat_edit_message">編輯</string>
+    <string name="cometchat_emoji">表情符</string>
+    <string name="cometchat_ended">已結束</string>
+    <string name="cometchat_enter_your_option">輸入您的選項</string>
+    <string name="cometchat_err_blank_uid_message">UID不能為空。請提供有效的UID</string>
+    <string name="cometchat_err_default_message">出了些問題</string>
+    <string name="cometchat_err_empty_group_name_message">組名不能為null或為空</string>
+    <string name="cometchat_err_internet_unavailable">沒有互聯網連接。請稍後重試</string>
+    <string name="cometchat_err_invalid_guid_message">請提供有效的GUID</string>
+    <string name="cometchat_err_invalid_uid_message">請提供有效的 UID</string>
+    <string name="cometchat_err_no_options">調查的 “ options ”丟失或無效</string>
+    <string name="cometchat_err_no_poll_id">民意測驗 “ id” 丟失</string>
+    <string name="cometchat_err_no_question">民意測驗的“問題”丟失了</string>
+    <string name="cometchat_err_no_receiver"> “接收器”（UID / GUID）丟失</string>
+    <string name="cometchat_err_no_receiver_type"> “ receiverType ”丟失</string>
+    <string name="cometchat_err_not_poll_creator">您不是民意測驗的創建者</string>
+    <string name="cometchat_err_password_missing_message">密碼是受保護組的必填項</string>
+    <string name="cometchat_err_poll_not_found">投票不存在</string>
+    <string name="cometchat_err_uid_with_space_message">UID不能包含空格。請提供有效的UID</string>
+    <string name="cometchat_error">錯誤</string>
+    <string name="cometchat_extension_is_not_enabled">該擴展名被禁用。請從CometChat儀表板啟用擴展</string>
+    <string name="cometchat_extension_not_found">找不到提供的擴展名。</string>
+    <string name="cometchat_file_download_failed">檔案下載失敗。</string>
+    <string name="cometchat_file_not_exist">檔案不存在</string>
+    <string name="cometchat_fill_this_field">填寫此欄位</string>
+    <string name="cometchat_form_completion_message">感謝您填寫表格。</string>
+    <string name="cometchat_generate_summary">產生摘要</string>
+    <string name="cometchat_generating_replies">產生回覆</string>
+    <string name="cometchat_generating_summary">產生摘要</string>
+    <string name="cometchat_grant_camera_permission">請從應用程式設定授與相機權限</string>
+    <string name="cometchat_grant_phone_state_permission">請從應用程序設置授予電話狀態權限</string>
+    <string name="cometchat_grant_storage_permission">請從應用程序設置授予存儲權限</string>
+    <string name="cometchat_group_password">群組密碼</string>
+    <string name="cometchat_groups">群組</string>
+    <string name="cometchat_has_shared_group_call">分享了一个群组通话。</string>
+    <string name="cometchat_incoming">傳入</string>
+    <string name="cometchat_incorrect_password">密碼不正確</string>
+    <string name="cometchat_is_typing">正在輸入...</string>
+    <string name="cometchat_join">喬伊</string>
+    <string name="cometchat_join_group_text">輸入密碼以存取 %1$s 群組。 </string>
+    <string name="cometchat_joined">加入</string>
+    <string name="cometchat_kicked_by">踢</string>
+    <string name="cometchat_launch">啟動</string>
+    <string name="cometchat_leave_group">離開群組</string>
+    <string name="cometchat_leave_group_text">您確定要離開群組嗎？</string>
+    <string name="cometchat_left">剩下</string>
+    <string name="cometchat_made">制作</string>
+    <string name="cometchat_meet_with">會面 </string>
+    <string name="cometchat_members">成員</string>
+    <string name="cometchat_message">撰寫訊息</string>
+    <string name="cometchat_message_audio">🎵 音訊</string>
+    <string name="cometchat_message_card"> 🪧卡</string>
+    <string name="cometchat_message_file">📁 檔案</string>
+    <string name="cometchat_message_form">📋表格</string>
+    <string name="cometchat_message_image">📷 照片</string>
+    <string name="cometchat_message_information">資訊</string>
+    <string name="cometchat_message_privately">私下留言</string>
+    <string name="cometchat_message_receipt">訊息收據」</string>
+    <string name="cometchat_message_video">📹 影片</string>
+    <string name="cometchat_messages">留言</string>
+    <string name="cometchat_min_meeting"> 最小會議</string>
+    <string name="cometchat_missed_call">錯過</string>
+    <string name="cometchat_moderator">主持人</string>
+    <string name="cometchat_more_option">更多</string>
+    <string name="cometchat_more_times">更多次數</string>
+    <string name="cometchat_name">越南</string>
+    <string name="cometchat_new_chat">新聊天</string>
+    <string name="cometchat_new_group">新群組</string>
+    <string name="cometchat_new_message">新消息</string>
+    <string name="cometchat_new_messages">新消息</string>
+    <string name="cometchat_no">沒有</string>
+    <string name="cometchat_no_call_record">沒有電話</string>
+    <string name="cometchat_no_calls">無電話</string>
+    <string name="cometchat_no_conversations">你沒有談話</string>
+    <string name="cometchat_no_members">沒有成員</string>
+    <string name="cometchat_no_message_found">找不到訊息</string>
+    <string name="cometchat_no_participants">沒有參加者</string>
+    <string name="cometchat_no_quick_time_slots_available">「沒有可用的時間段</string>
+    <string name="cometchat_no_recipient">沒有收件人</string>
+    <string name="cometchat_no_recordings">沒有錄音</string>
+    <string name="cometchat_no_stickers">沒有可用的貼紙</string>
+    <string name="cometchat_no_time_slots_available">此日期沒有可用的時段。請嘗試另一個日期。</string>
+    <string name="cometchat_offline">離線</string>
+    <string name="cometchat_okay">好的</string>
+    <string name="cometchat_online">線上</string>
+    <string name="cometchat_open_document">開啟文件</string>
+    <string name="cometchat_option">選項</string>
+    <string name="cometchat_outgoing">傳出</string>
+    <string name="cometchat_owner">擁有者</string>
+    <string name="cometchat_participant">參與者</string>
+    <string name="cometchat_photo_video_library">相片與影片庫</string>
+    <string name="cometchat_please_try_another_password">請嘗試使用其他密碼</string>
+    <string name="cometchat_protected_group">受保護的群組</string>
+    <string name="cometchat_question">問題</string>
+    <string name="cometchat_read">閱讀</string>
+    <string name="cometchat_receipt_information">收據資料</string>
+    <string name="cometchat_recordings">錄音</string>
+    <string name="cometchat_rejected_call">拒絕的呼叫</string>
+    <string name="cometchat_replies">回复</string>
+    <string name="cometchat_reply">回复</string>
+    <string name="cometchat_reply_in_thread">回覆</string>
+    <string name="cometchat_sdk_incorrect_password_error">群組的密碼不正確。</string>
+    <string name="cometchat_search">搜尋</string>
+    <string name="cometchat_select_a_day">選擇一天</string>
+    <string name="cometchat_select_a_time">選擇時間</string>
+    <string name="cometchat_send_audio_files">傳送音訊檔案</string>
+    <string name="cometchat_send_files">檔案與文件</string>
+    <string name="cometchat_sensitive_content">不安全的內容。</string>
+    <string name="cometchat_server_error">服務器錯誤</string>
+    <string name="cometchat_share_message">分享</string>
+    <string name="cometchat_share_whiteboard">分享白板</string>
+    <string name="cometchat_share_writeboard">分享寫板</string>
+    <string name="cometchat_shared_a_sticker">分享貼紙</string>
+    <string name="cometchat_something_went_wrong">出了什麼問題. </string>
+    <string name="cometchat_something_went_wrong_please_try_again">出了什麼問題請再試一次。</string>
+    <string name="cometchat_suggest_a_reply">提出回覆</string>
+    <string name="cometchat_tag_item">Tag Item</string>
+    <string name="cometchat_take_a_photo">拍攝相片</string>
+    <string name="cometchat_tap_to_remove">點擊以移除</string>
+    <string name="cometchat_tap_to_start_conversation">點按即可開始對話</string>
+    <string name="cometchat_text_copied">文字複製到剪貼簿</string>
+    <string name="cometchat_this_message_deleted">⚠️ 此訊息已被刪除</string>
+    <string name="cometchat_thread_title">螺紋</string>
+    <string name="cometchat_time_at_a_time">一次一次</string>
+    <string name="cometchat_time_slot_no_longer_available_please_choose_another">時段不再可用。請選擇其他。</string>
+    <string name="cometchat_today">今天</string>
+    <string name="cometchat_transfer_ownership">您是群組擁有者，請在離開群組前將擁有權移轉給會員。</string>
+    <string name="cometchat_transfer_ownership_text">移轉所有權</string>
+    <string name="cometchat_translate_message">翻譯</string>
+    <string name="cometchat_translated_message">已翻譯訊息</string>
+    <string name="cometchat_translation_error">沒有可用的翻譯</string>
+    <string name="cometchat_try_new_slot">您的老虎機已預訂，請嘗試新的插槽。</string>
+    <string name="cometchat_type_private">私人</string>
+    <string name="cometchat_type_protected">受保護</string>
+    <string name="cometchat_type_public">公眾</string>
+    <string name="cometchat_unanswered">未有答復的</string>
+    <string name="cometchat_unban">取消禁止</string>
+    <string name="cometchat_unblock_user">解除封鎖用戶</string>
+    <string name="cometchat_updating">更新中</string>
+    <string name="cometchat_uploading">上載</string>
+    <string name="cometchat_users">使用者</string>
+    <string name="cometchat_video_call">視訊通話</string>
+    <string name="cometchat_view">檢視</string>
+    <string name="cometchat_view_members">查看成員</string>
+    <string name="cometchat_view_profile">檢視個人檔案</string>
+    <string name="cometchat_vote">投票</string>
+    <string name="cometchat_voted_success">投票成功</string>
+    <string name="cometchat_votes">投票</string>
+    <string name="cometchat_yes">是</string>
+    <string name="cometchat_yesterday">昨天</string>
+    <string name="cometchat_you">你</string>
+    <string name="cometchat_you_can_mention_up_to">你最多可以提到</string>
+    <string name="cometchat_you_created_group_call">您已建立群组通话。</string>
+    <string name="cometchat_your_meeting_has_been_scheduled">您的會議已安排。</string>
+    <string msgid="6083905920877235314" name="copy">"複製"</string>
+    <string name="error_icon_content_description">錯誤</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"進階"</string>
+    <string name="exposed_dropdown_menu_content_description">顯示下拉式選單</string>
+    <string name="group">團體？</string>
+    <string name="icon_content_description">對話方塊圖示</string>
+    <string name="item_view_role_description">分頁標籤</string>
+    <string name="material_clock_toggle_content_description">選取上午或下午</string>
+    <string name="material_hour_24h_suffix">%1$s 小時</string>
+    <string name="material_hour_selection">請選取時段</string>
+    <string name="material_hour_suffix">%1$s 點</string>
+    <string name="material_minute_selection">選取分鐘數</string>
+    <string name="material_minute_suffix">%1$s 分</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">切換至時鐘模式來輸入時間。</string>
+    <string name="material_timepicker_hour">小時</string>
+    <string name="material_timepicker_minute">分鐘</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">選取時間</string>
+    <string name="material_timepicker_text_input_mode_description">切換至文字輸入模式來輸入時間。</string>
+    <string name="mtrl_badge_numberless_content_description">新通知</string>
+    <string name="mtrl_chip_close_icon_content_description">移除 %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">超過 %1$d 則新通知</string>
+    <string name="mtrl_picker_a11y_next_month">變更至下個月</string>
+    <string name="mtrl_picker_a11y_prev_month">變更至上個月</string>
+    <string name="mtrl_picker_announce_current_range_selection">所選開始日期：%1$s - 所選結束日期：%2$s</string>
+    <string name="mtrl_picker_announce_current_selection">目前選取：%1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">無</string>
+    <string name="mtrl_picker_cancel">取消</string>
+    <string name="mtrl_picker_confirm">確定</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">選取日期</string>
+    <string name="mtrl_picker_date_header_unselected">所選日期</string>
+    <string name="mtrl_picker_day_of_week_column_header">星期幾資料欄：%1$s</string>
+    <string name="mtrl_picker_end_date_description">結束日期：%1$s</string>
+    <string name="mtrl_picker_invalid_format">格式無效。</string>
+    <string name="mtrl_picker_invalid_format_example">範例：%1$s</string>
+    <string name="mtrl_picker_invalid_format_use">使用：%1$s</string>
+    <string name="mtrl_picker_invalid_range">日期範圍無效。</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">前往今年 %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">前往 %1$d 年</string>
+    <string name="mtrl_picker_out_of_range">超出日期範圍：%1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">開始日期 – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – 結束日期</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">選取範圍</string>
+    <string name="mtrl_picker_range_header_unselected">開始日期 - 結束日期</string>
+    <string name="mtrl_picker_save">儲存</string>
+    <string name="mtrl_picker_start_date_description">開始日期：%1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">日期</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">結束日期</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">開始日期</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">今天 %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">切換至日曆輸入模式</string>
+    <string name="mtrl_picker_toggle_to_day_selection">輕觸即可切換至日曆檢視畫面</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">切換至文字輸入模式</string>
+    <string name="mtrl_picker_toggle_to_year_selection">輕觸即可切換至年份檢視畫面</string>
+    <string name="mtrl_timepicker_cancel">取消</string>
+    <string name="mtrl_timepicker_confirm">確定</string>
+    <string msgid="6573031135582639649" name="not_set">"未設定"</string>
+    <string name="password_toggle_content_description">顯示密碼</string>
+    <string msgid="6685851473431805375" name="preference_copied">"已將「<ns1:g id="SUMMARY">%1$s</ns1:g>」複製到剪貼簿。"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"搜尋"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>、<ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"關閉"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"開啟"</string>
+</resources>

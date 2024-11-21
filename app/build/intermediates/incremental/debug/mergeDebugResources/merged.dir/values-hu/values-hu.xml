@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d új értesítés</item>
+    <item quantity="other">%d új értesítés</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Fel"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Az összes megtekintése"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Válasszon alkalmazást"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"KI"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"BE"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Szóköz"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Megosztás a következő alkalmazással: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string name="bottomsheet_action_collapse">Az alsó lap összecsukása</string>
+    <string name="bottomsheet_action_expand">Az alsó lap kibontása</string>
+    <string name="bottomsheet_action_expand_halfway">Kibontás félig</string>
+    <string name="bottomsheet_drag_handle_clicked">Duplán koppintott a csúszkára</string>
+    <string name="bottomsheet_drag_handle_content_description">Csúszka</string>
+    <string name="call">Hívás</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Fogadás"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Videó"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Elutasítás"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Befejezés"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Bejövő hívás"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Hívás folyamatban"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Bejövő hívás szűrése"</string>
+    <string name="character_counter_content_description">Begépelt karakterszám: %2$d/%1$d</string>
+    <string name="character_counter_overflowed_content_description">Maximális karakterszám túllépve: %2$d/%1$d</string>
+    <string name="clear_text_end_icon_content_description">Szöveg törlése</string>
+    <string name="cometchat_accept">Elfogadom</string>
+    <string name="cometchat_accepted">elfogadva</string>
+    <string name="cometchat_add_a_new_option">További válasz hozzáadása</string>
+    <string name="cometchat_add_members">Tagok hozzáadása</string>
+    <string name="cometchat_add_reaction">Reakció hozzáadása</string>
+    <string name="cometchat_add_to_chat">Hozzáadás a csevegéshez</string>
+    <string name="cometchat_added">hozzáadott</string>
+    <string name="cometchat_admin">Admin</string>
+    <string name="cometchat_ai_ice_breaker_text">Jégtörők generálása…</string>
+    <string name="cometchat_all">Minden</string>
+    <string name="cometchat_ask_ai_bot">Kérdezze meg AI botokat</string>
+    <string name="cometchat_ask_bot">Kérdezd meg</string>
+    <string name="cometchat_ask_bot_subtitle">AI Bot</string>
+    <string name="cometchat_ban">Tiltás</string>
+    <string name="cometchat_banned">Tiltott</string>
+    <string name="cometchat_banned_members">Tiltott tagok</string>
+    <string name="cometchat_block_user">Felhasználó blokkolása</string>
+    <string name="cometchat_book_new_slot">Foglaljon új slotot</string>
+    <string name="cometchat_bot_first_message">Hogyan segíthetek ebben a beszélgetésben? Kérlek, tegyen fel egy kérdést, és tanácsot adok neked 🙂</string>
+    <string name="cometchat_busy_call">Elfoglalt</string>
+    <string name="cometchat_call_details">Hívás részletei</string>
+    <string name="cometchat_call_history">Hívási előzmények</string>
+    <string name="cometchat_calling">hívás</string>
+    <string name="cometchat_cancel">Törölje</string>
+    <string name="cometchat_cancel_call">Törölték</string>
+    <string name="cometchat_cc_no_message">Itt még nincsenek üzenetek…</string>
+    <string name="cometchat_channel_description">Csatorna leírása</string>
+    <string name="cometchat_comet_chat_enter_a_text">Írjon be egy szöveget</string>
+    <string name="cometchat_conference_call">konferenciahívás</string>
+    <string name="cometchat_conversation_summary">Beszélgetés összefog</string>
+    <string name="cometchat_conversation_title">Beszélgetések</string>
+    <string name="cometchat_copy_message">Másolás</string>
+    <string name="cometchat_create_a_poll">Szavazás létrehozása</string>
+    <string name="cometchat_create_group">csoport létrehozása</string>
+    <string name="cometchat_custom_message_document">📃 Dokumentum</string>
+    <string name="cometchat_custom_message_meeting">📹 Csoportos hívás </string>
+    <string name="cometchat_custom_message_poll">📊 Szavazások </string>
+    <string name="cometchat_custom_message_sticker">💟 Matrica </string>
+    <string name="cometchat_custom_message_whiteboard">📝 Tábla</string>
+    <string name="cometchat_decline">visszaesés</string>
+    <string name="cometchat_delete">Törölje</string>
+    <string name="cometchat_delete_and_exit">Törlés és kilépés</string>
+    <string name="cometchat_delete_conversation_message">Szeretné törölni ezt a beszélgetést?</string>
+    <string name="cometchat_delete_group_text">Biztosan törölni szeretné a csoportot?</string>
+    <string name="cometchat_delete_message">Törölje</string>
+    <string name="cometchat_deleting_conversation">A beszélgetés törlése</string>
+    <string name="cometchat_deliver">Szállított</string>
+    <string name="cometchat_details">Részletek</string>
+    <string name="cometchat_downloading">Letöltés</string>
+    <string name="cometchat_edit_message">Szerkesztés</string>
+    <string name="cometchat_emoji">Emoji</string>
+    <string name="cometchat_ended">Véget ért</string>
+    <string name="cometchat_enter_your_option">Válasz</string>
+    <string name="cometchat_err_blank_uid_message">Az UID nem lehet üres. Kérjük, adjon meg egy érvényes UID-t</string>
+    <string name="cometchat_err_default_message">Valami rosszul ment, kérlek próbálkozzon újra</string>
+    <string name="cometchat_err_empty_group_name_message">A csoport neve nem lehet null vagy üres</string>
+    <string name="cometchat_err_internet_unavailable">Nincs elérhető internet</string>
+    <string name="cometchat_err_invalid_guid_message">Kérjük, adjon meg érvényes GUID-t</string>
+    <string name="cometchat_err_invalid_uid_message">Kérjük, adjon meg egy érvényes UID-t</string>
+    <string name="cometchat_err_no_options">A szavazás beállításai hiányoznak vagy érvénytelenek</string>
+    <string name="cometchat_err_no_poll_id">Hiányzik a szavazás</string>
+    <string name="cometchat_err_no_question">A szavazás kérdése hiányzik</string>
+    <string name="cometchat_err_no_receiver">A vevő (UID/GUID) hiányzik</string>
+    <string name="cometchat_err_no_receiver_type">A ReceiverType hiányzik</string>
+    <string name="cometchat_err_not_poll_creator">Nem te vagy a közvélemény-kutatás alkotója</string>
+    <string name="cometchat_err_password_missing_message">A jelszó kötelező egy védett csoport számára</string>
+    <string name="cometchat_err_poll_not_found">A közvélemény-kutatás nem létezik</string>
+    <string name="cometchat_err_uid_with_space_message">Az UID nem tartalmazhat szóközöket. Kérjük, adjon meg egy érvényes UID-t</string>
+    <string name="cometchat_error">Hiba</string>
+    <string name="cometchat_extension_is_not_enabled">Engedélyezze a bővítményt a CometChat Pro irányítópultról</string>
+    <string name="cometchat_extension_not_found">A megadott azonosítóval ellátott kiterjesztés nem létezik</string>
+    <string name="cometchat_file_download_failed">A fájl letöltése sikertelen.</string>
+    <string name="cometchat_file_not_exist">A fájl nem létezik</string>
+    <string name="cometchat_fill_this_field">Töltse ki ezt a mezőt</string>
+    <string name="cometchat_form_completion_message">Köszönjük, hogy kitöltötte az űrlapot.</string>
+    <string name="cometchat_generate_summary">Összefoglaló létrehozása</string>
+    <string name="cometchat_generating_replies">Válaszok generálása</string>
+    <string name="cometchat_generating_summary">Összefoglaló generálása</string>
+    <string name="cometchat_grant_camera_permission">Kérjük, adjon engedélyt a fényképezőgéphez az alkalmazás</string>
+    <string name="cometchat_grant_phone_state_permission">Kérjük, adja meg a Phone State engedélyt az alkalmazásbeállításhoz</string>
+    <string name="cometchat_grant_storage_permission">Adjon meg tárolási engedélyt az alkalmazásbeállításokból</string>
+    <string name="cometchat_group_password">Csoportos jelszó</string>
+    <string name="cometchat_groups">Csoportok</string>
+    <string name="cometchat_has_shared_group_call">Csoportos hívást kezdeményezett.</string>
+    <string name="cometchat_in_thread">Egy szálban</string>
+    <string name="cometchat_incoming">Bejövő</string>
+    <string name="cometchat_incorrect_password">Helytelen jelszó</string>
+    <string name="cometchat_is_typing">gépel..</string>
+    <string name="cometchat_join">Csatlakozz</string>
+    <string name="cometchat_join_group_text">Adja meg a jelszót a (z) %1$s csoport eléréséhez. </string>
+    <string name="cometchat_joined">csatlakozott</string>
+    <string name="cometchat_kicked_by">rúgott</string>
+    <string name="cometchat_launch">Nyitott</string>
+    <string name="cometchat_leave_group">Elhagyja a csoportot</string>
+    <string name="cometchat_leave_group_text">Biztos, hogy el akarja hagyni a csoportot?</string>
+    <string name="cometchat_left">bal</string>
+    <string name="cometchat_made">készült</string>
+    <string name="cometchat_meet_with">Találkozz </string>
+    <string name="cometchat_member">Tag</string>
+    <string name="cometchat_members">Tagok</string>
+    <string name="cometchat_message">Írjon üzenetet</string>
+    <string name="cometchat_message_audio">🎵 Hang</string>
+    <string name="cometchat_message_card"> Kártya</string>
+    <string name="cometchat_message_file">📁 Fájl</string>
+    <string name="cometchat_message_form">📋 Űrlap</string>
+    <string name="cometchat_message_image">📷 Fotó</string>
+    <string name="cometchat_message_information">Információ</string>
+    <string name="cometchat_message_privately">Privát üzenet</string>
+    <string name="cometchat_message_receipt">Üzenet átvétele</string>
+    <string name="cometchat_message_video">📹 Videó</string>
+    <string name="cometchat_messages">Üzenet</string>
+    <string name="cometchat_min_meeting">min találkozó</string>
+    <string name="cometchat_missed_call">Hiányzott</string>
+    <string name="cometchat_moderator">műsorvezető</string>
+    <string name="cometchat_more_option">több</string>
+    <string name="cometchat_more_times">Több alkalommal</string>
+    <string name="cometchat_name">Név</string>
+    <string name="cometchat_new_chat">Új csevegés</string>
+    <string name="cometchat_new_group">Új csoport</string>
+    <string name="cometchat_new_message">új üzenet</string>
+    <string name="cometchat_new_messages"> új üzenetek</string>
+    <string name="cometchat_no">Nem</string>
+    <string name="cometchat_no_call_record">Nincs hívás</string>
+    <string name="cometchat_no_calls">Nincs hívás</string>
+    <string name="cometchat_no_chats">Nincs csevegés</string>
+    <string name="cometchat_no_conversations">Nincs beszélgetésed.</string>
+    <string name="cometchat_no_groups">Nincsenek csoportok</string>
+    <string name="cometchat_no_members">Nincsenek tagok</string>
+    <string name="cometchat_no_message_found">Nem található üzenet</string>
+    <string name="cometchat_no_participants">Nincsenek résztvevők</string>
+    <string name="cometchat_no_quick_time_slots_available">Nincsenek rendelkezésre álló időpontok.</string>
+    <string name="cometchat_no_recipient">Nincs címzett</string>
+    <string name="cometchat_no_recordings">Nincs felvétel</string>
+    <string name="cometchat_no_stickers">Nincsenek matricák</string>
+    <string name="cometchat_no_time_slots_available">Erre a dátumra nincs időszint. Kérjük, próbálkozzon egy másik dátumot.</string>
+    <string name="cometchat_no_user">Nincsenek felhasználók</string>
+    <string name="cometchat_offline">nem elérhető</string>
+    <string name="cometchat_okay">oké</string>
+    <string name="cometchat_online">online</string>
+    <string name="cometchat_open_document">Nyissa meg a dokumentumot</string>
+    <string name="cometchat_option">Állítsa be a válaszokat</string>
+    <string name="cometchat_outgoing">Kimenő</string>
+    <string name="cometchat_owner">Tulajdonos</string>
+    <string name="cometchat_participant">Résztvevő</string>
+    <string name="cometchat_photo_video_library">Fotó- és videókönyvtár</string>
+    <string name="cometchat_please_try_another_password">Próbáljon ki egy másik jelszót</string>
+    <string name="cometchat_protected_group">Védett csoport</string>
+    <string name="cometchat_question">Kérdés</string>
+    <string name="cometchat_read">Olvassa el</string>
+    <string name="cometchat_receipt_information">Átvételi információk</string>
+    <string name="cometchat_recordings">Felvételek</string>
+    <string name="cometchat_rejected_call">Elutasított</string>
+    <string name="cometchat_replies">Válaszok</string>
+    <string name="cometchat_reply">Válasz</string>
+    <string name="cometchat_reply_in_thread">Válasz</string>
+    <string name="cometchat_sdk_incorrect_password_error">A csoport jelszava helytelen.</string>
+    <string name="cometchat_search">Keresés</string>
+    <string name="cometchat_select_a_day">Válasszon egy napot</string>
+    <string name="cometchat_select_a_time">Válasszon időpontot</string>
+    <string name="cometchat_send_audio_files">Hangfájlok küldése</string>
+    <string name="cometchat_send_files">Fájlok és dokumentumok</string>
+    <string name="cometchat_sensitive_content">Nem biztonságos tartalom.</string>
+    <string name="cometchat_server_error">Szerver hiba</string>
+    <string name="cometchat_share_message">Megosztás</string>
+    <string name="cometchat_share_whiteboard">Együttműködési tábla</string>
+    <string name="cometchat_share_writeboard">Együttműködési dokumentum</string>
+    <string name="cometchat_shared_a_sticker">Matrica megosztása</string>
+    <string name="cometchat_something_went_wrong">Valami rosszul ment.</string>
+    <string name="cometchat_something_went_wrong_please_try_again">Valami rosszul ment. Kérjük, próbálkozzon újra.</string>
+    <string name="cometchat_suggest_a_reply">Javasoljon választ</string>
+    <string name="cometchat_tag_item">Elem címke</string>
+    <string name="cometchat_take_a_photo">Készítsen fényképet</string>
+    <string name="cometchat_tap_to_remove">Koppintson az eltávolításhoz</string>
+    <string name="cometchat_tap_to_start_conversation">Érintse meg a beszélgetés megkezdéséhez</string>
+    <string name="cometchat_text_copied">A vágólapra másolt szöveg</string>
+    <string name="cometchat_this_message_deleted">Az üzenet törlődik</string>
+    <string name="cometchat_thread_title">szál</string>
+    <string name="cometchat_time_at_a_time">egyszerre</string>
+    <string name="cometchat_time_slot_no_longer_available_please_choose_another">Az időhely már nem érhető el. Kérjük, válasszon másikat.</string>
+    <string name="cometchat_today">Ma</string>
+    <string name="cometchat_transfer_ownership">Ön a csoport tulajdonosa, kérjük, adja át a tulajdonjogot egy tagra, mielőtt elhagyja a csoportot.</string>
+    <string name="cometchat_transfer_ownership_text">Tulajdonjog átruházása</string>
+    <string name="cometchat_translate_message">Fordítás</string>
+    <string name="cometchat_translated_message">Fordított üzenet</string>
+    <string name="cometchat_translation_error">A fordításhoz kiválasztott nyelv hasonló az eredeti üzenet nyelvéhez</string>
+    <string name="cometchat_try_again">Próbáld újra</string>
+    <string name="cometchat_try_new_slot">A nyerőgéped le van foglalva. Kérjük, próbáljon ki egy új slotot.</string>
+    <string name="cometchat_type_private">Privát</string>
+    <string name="cometchat_type_protected">Védett</string>
+    <string name="cometchat_type_public">Nyilvános</string>
+    <string name="cometchat_unanswered">megválaszolatlan</string>
+    <string name="cometchat_unban">Unban</string>
+    <string name="cometchat_unblock_user">Felhasználó letiltása</string>
+    <string name="cometchat_updating">Frissítés</string>
+    <string name="cometchat_uploading">Feltöltés</string>
+    <string name="cometchat_users">Felhasználók</string>
+    <string name="cometchat_video_call">Videó</string>
+    <string name="cometchat_view">Nézet</string>
+    <string name="cometchat_view_members">Tagok megtekintése</string>
+    <string name="cometchat_view_profile">Profil megtekintése</string>
+    <string name="cometchat_vote"> Szavazás</string>
+    <string name="cometchat_voted_success">Szavazott siker</string>
+    <string name="cometchat_votes"> Szavazatok</string>
+    <string name="cometchat_yes">Igen</string>
+    <string name="cometchat_yesterday">Tegnap</string>
+    <string name="cometchat_you">Ön</string>
+    <string name="cometchat_you_can_mention_up_to">Megemlítheti akár</string>
+    <string name="cometchat_you_created_group_call">Csoportos hívást kezdeményezett.</string>
+    <string name="cometchat_your_meeting_has_been_scheduled">Az értekezletét ütemezték.</string>
+    <string msgid="6083905920877235314" name="copy">"Másolás"</string>
+    <string name="error_icon_content_description">Hiba</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Speciális"</string>
+    <string name="exposed_dropdown_menu_content_description">Legördülő menü megjelenítése</string>
+    <string name="icon_content_description">Párbeszédpanel ikonja</string>
+    <string name="item_view_role_description">Lap</string>
+    <string name="material_clock_toggle_content_description">Válassza ki, hogy délelőtt vagy délután</string>
+    <string name="material_hour_24h_suffix">%1$s óra</string>
+    <string name="material_hour_selection">Óra kiválasztása</string>
+    <string name="material_hour_suffix">%1$s óra</string>
+    <string name="material_minute_selection">Perc kiválasztása</string>
+    <string name="material_minute_suffix">%1$s perc</string>
+    <string name="material_timepicker_am">de.</string>
+    <string name="material_timepicker_clock_mode_description">Időbevitelhez váltson óramódba.</string>
+    <string name="material_timepicker_hour">Óra</string>
+    <string name="material_timepicker_minute">Perc</string>
+    <string name="material_timepicker_pm">du.</string>
+    <string name="material_timepicker_select_time">Időpont kiválasztása</string>
+    <string name="material_timepicker_text_input_mode_description">Időbevitelhez váltson szövegbeviteli módba.</string>
+    <string name="mtrl_badge_numberless_content_description">Új értesítés</string>
+    <string name="mtrl_chip_close_icon_content_description">Eltávolítás (%1$s)</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Több mint %1$d új értesítés</string>
+    <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
+    <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
+    <string name="mtrl_picker_announce_current_range_selection">Kiválasztott kezdő dátum: %1$s – Kiválasztott befejező dátum: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">egyik sem</string>
+    <string name="mtrl_picker_cancel">Mégse</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
+    <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Napok oszlopa: %1$s</string>
+    <string name="mtrl_picker_end_date_description">Befejezés dátuma: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Érvénytelen formátum.</string>
+    <string name="mtrl_picker_invalid_format_example">Példa: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Használja ezt: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Érvénytelen tartomány.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Ugrás az aktuális évre %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ugrás ehhez az évhez: %1$d</string>
+    <string name="mtrl_picker_out_of_range">Tartományon kívül: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Kezdés dátuma – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Befejezés dátuma</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Válasszon dátumtartományt</string>
+    <string name="mtrl_picker_range_header_unselected">Kezdés dátuma – Befejezés dátuma</string>
+    <string name="mtrl_picker_save">Mentés</string>
+    <string name="mtrl_picker_start_date_description">Kezdés dátuma: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Dátum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Befejezés dátuma</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Kezdés dátuma</string>
+    <string name="mtrl_picker_text_input_day_abbr">N</string>
+    <string name="mtrl_picker_text_input_month_abbr">H</string>
+    <string name="mtrl_picker_text_input_year_abbr">É</string>
+    <string name="mtrl_picker_today_description">Ma %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Váltás naptárbeviteli módra</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Koppintson a naptárnézetre való váltáshoz</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Váltás szövegbeviteli módra</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Koppintson az éves nézetre való váltáshoz</string>
+    <string name="mtrl_timepicker_cancel">Mégse</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="6573031135582639649" name="not_set">"Nincs beállítva"</string>
+    <string name="password_toggle_content_description">Jelszó megjelenítése</string>
+    <string msgid="6685851473431805375" name="preference_copied">"„<ns1:g id="SUMMARY">%1$s</ns1:g>” a vágólapra lett másolva."</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Keresés"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"KI"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"BE"</string>
+</resources>

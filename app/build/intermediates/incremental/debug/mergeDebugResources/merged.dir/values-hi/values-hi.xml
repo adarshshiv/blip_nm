@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d नई सूचनाएं</item>
+    <item quantity="other">%d नई सूचनाएं</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"होम पेज पर जाएं"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"वापस जाएं"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"ज़्यादा विकल्प"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"हो गया"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"सभी देखें"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"कोई ऐप्लिकेशन चुनें"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"बंद"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"चालू"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"खोजें…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"क्‍वेरी हटाएं"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"सर्च क्वेरी"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"खोजें"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"क्वेरी सबमिट करें"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"बोलकर खोजें"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"इससे शेयर करें:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> से शेयर करें"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"छोटा करें"</string>
+    <string name="bottomsheet_action_collapse">बॉटम शीट को छोटा करें</string>
+    <string name="bottomsheet_action_expand">बॉटम शीट को बड़ा करें</string>
+    <string name="bottomsheet_action_expand_halfway">पूरी तरह बड़ा करें</string>
+    <string name="bottomsheet_drag_handle_clicked">खींचकर छोड़ने वाले हैंडल पर दो बार टैप किया गया</string>
+    <string name="bottomsheet_drag_handle_content_description">खींचकर छोड़ने वाला हैंडल</string>
+    <string name="call">कॉल</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"जवाब दें"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"वीडियो"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"अस्वीकार करें"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"कॉल काटें"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"आने वाला (इनकमिंग) कॉल"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"पहले से जारी कॉल"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"इनकमिंग कॉल को स्क्रीन किया जा रहा है"</string>
+    <string name="character_counter_content_description">%2$d वर्णों में से %1$d वर्ण दर्ज किए गए</string>
+    <string name="character_counter_overflowed_content_description">अभी %1$d वर्ण हैं जबकि %2$d से ज़्यादा नहीं होने चाहिए</string>
+    <string name="clear_text_end_icon_content_description">टेक्स्ट मिटाएं</string>
+    <string name="cometchat_accept">स्वीकार करें</string>
+    <string name="cometchat_accepted">स्वीकार किए जाते हैं</string>
+    <string name="cometchat_add_a_new_option">नया विकल्प जोड़ें</string>
+    <string name="cometchat_add_members">सदस्य जोड़ें</string>
+    <string name="cometchat_add_reaction">प्रतिक्रियाएँ जोड़ेंं</string>
+    <string name="cometchat_add_to_chat">" चैट में जोड़ें"</string>
+    <string name="cometchat_added">ने समूह में जोड़ा</string>
+    <string name="cometchat_admin">एडमिन</string>
+    <string name="cometchat_ai_ice_breaker_text">आइसब्रेकर उत्पन्न कर रहा है...</string>
+    <string name="cometchat_all">सभी</string>
+    <string name="cometchat_ask_ai_bot">AI बॉट्स से पूछें</string>
+    <string name="cometchat_ask_bot">पूछो</string>
+    <string name="cometchat_ask_bot_subtitle">एआई बॉट</string>
+    <string name="cometchat_ban">बान</string>
+    <string name="cometchat_banned">प्रतिबंधित</string>
+    <string name="cometchat_banned_members">प्रतिबंधित सदस्य</string>
+    <string name="cometchat_block_user">उपयोगकर्ता को ब्लॉक करें</string>
+    <string name="cometchat_book_new_slot">नया स्लॉट बुक करें</string>
+    <string name="cometchat_bot_first_message">मैं इस बातचीत में आपकी कैसे मदद कर सकता हूं? कृपया मुझसे एक प्रश्न पूछें और मैं आपको सलाह दूंगा 🙂</string>
+    <string name="cometchat_busy_call">व्यस्त</string>
+    <string name="cometchat_call_details">कॉल का विवरण</string>
+    <string name="cometchat_call_history">कॉल हिस्ट्री</string>
+    <string name="cometchat_calling">कॉलिंग</string>
+    <string name="cometchat_cancel">रद्द करें</string>
+    <string name="cometchat_cancel_call">रद्द किया गया</string>
+    <string name="cometchat_cc_no_message">यहां अभी तक कोई संदेश नहीं है...</string>
+    <string name="cometchat_channel_description">" चैनल विवरण"</string>
+    <string name="cometchat_comet_chat_enter_a_text">टेक्स्ट दर्ज करें</string>
+    <string name="cometchat_conference_call">कॉन्फ़्रेंस कॉल</string>
+    <string name="cometchat_conversation_summary">बातचीत का सारांश</string>
+    <string name="cometchat_conversation_title">बात चिट</string>
+    <string name="cometchat_copy_message">कॉपी करें</string>
+    <string name="cometchat_create_a_poll">एक सर्वेक्षण बनाएँ</string>
+    <string name="cometchat_create_group">" समूह बनाना"</string>
+    <string name="cometchat_custom_message_document">📃 दस्तावेज़</string>
+    <string name="cometchat_custom_message_meeting">📹 ग्रुप कॉल</string>
+    <string name="cometchat_custom_message_poll">📊 पोल</string>
+    <string name="cometchat_custom_message_sticker">💟 स्टीकर</string>
+    <string name="cometchat_custom_message_whiteboard">📝 व्हाइटबोर्ड</string>
+    <string name="cometchat_decline">गिरावट</string>
+    <string name="cometchat_delete">डिलीट करें</string>
+    <string name="cometchat_delete_and_exit">मिटाएँ और बाहर निकलें</string>
+    <string name="cometchat_delete_conversation_message">क्या आप इस वार्तालाप को हटाना चाहेंगे?</string>
+    <string name="cometchat_delete_group_text">क्या आप वाकई समूह को मिटाना चाहते हैं?</string>
+    <string name="cometchat_delete_message">मिटाएँ</string>
+    <string name="cometchat_deleting_conversation">वार्तालाप हटाना</string>
+    <string name="cometchat_deliver">डिलीवर किया</string>
+    <string name="cometchat_details">विवरण</string>
+    <string name="cometchat_downloading">डाउनलोड</string>
+    <string name="cometchat_edit_message">संपादित करें</string>
+    <string name="cometchat_emoji">इमोजी</string>
+    <string name="cometchat_ended">समाप्त</string>
+    <string name="cometchat_enter_your_option">अपना विकल्प दर्ज करें</string>
+    <string name="cometchat_err_blank_uid_message">UID खाली नहीं हो सकता। कृपया एक वैध UID प्रदान करें</string>
+    <string name="cometchat_err_default_message">कुछ गलत हो गया</string>
+    <string name="cometchat_err_empty_group_name_message">समूह नाम शून्य या रिक्त नहीं हो सकता</string>
+    <string name="cometchat_err_internet_unavailable">कोई इंटरनेट कनेक्शन नहीं। कृपया बाद में पुनः प्रयास करें</string>
+    <string name="cometchat_err_invalid_guid_message">कृपया एक मान्य GUID प्रदान करें</string>
+    <string name="cometchat_err_invalid_uid_message">कृपया एक मान्य UID प्रदान करें</string>
+    <string name="cometchat_err_no_options">पोल के लिए "विकल्प" या तो गायब हैं या अमान्य हैं</string>
+    <string name="cometchat_err_no_poll_id">पोल \ "आईडी \" गायब है</string>
+    <string name="cometchat_err_no_question">मतदान के लिए \"प्रश्न \" गायब है</string>
+    <string name="cometchat_err_no_receiver">\"रिसीवर \" (UID / GUID) गायब है</string>
+    <string name="cometchat_err_no_receiver_type">\"रिसीवर टाइप \" गायब है</string>
+    <string name="cometchat_err_not_poll_creator">आप चुनाव के निर्माता नहीं हैं</string>
+    <string name="cometchat_err_password_missing_message">संरक्षित समूह के लिए पासवर्ड अनिवार्य है</string>
+    <string name="cometchat_err_poll_not_found">पोल मौजूद नहीं है</string>
+    <string name="cometchat_err_uid_with_space_message">UID में रिक्त स्थान नहीं हो सकते. कृपया एक मान्य UID प्रदान करें</string>
+    <string name="cometchat_error">त्रुटि</string>
+    <string name="cometchat_extension_is_not_enabled">एक्सटेंशन अक्षम है। कृपया CometChat डैशबोर्ड से एक्सटेंशन सक्षम करें</string>
+    <string name="cometchat_extension_not_found">प्रदान किया गया एक्सटेंशन नहीं मिला।</string>
+    <string name="cometchat_file_download_failed">फ़ाइल डाउनलोड नहीं हो पाई।</string>
+    <string name="cometchat_file_not_exist">फ़ाइल मौजूद नहीं है</string>
+    <string name="cometchat_fill_this_field">इस क्षेत्र को भरें</string>
+    <string name="cometchat_form_completion_message">फॉर्म भरने के लिए धन्यवाद।</string>
+    <string name="cometchat_generate_summary">एक सारांश जनरेट करें</string>
+    <string name="cometchat_generating_replies">जवाब जनरेट करना</string>
+    <string name="cometchat_generating_summary">सारांश तैयार करना</string>
+    <string name="cometchat_grant_camera_permission">कृपया ऐप सेटिंग से कैमरा अनुमति दें</string>
+    <string name="cometchat_grant_phone_state_permission">कृपया ऐप सेटिंग से फ़ोन राज्य की अनुमति दें</string>
+    <string name="cometchat_grant_storage_permission">कृपया ऐप सेटिंग से स्टोरेज अनुमति दें</string>
+    <string name="cometchat_group_password">ग्रुप पासवर्ड</string>
+    <string name="cometchat_groups">ग्रुप्स</string>
+    <string name="cometchat_has_shared_group_call">ने एक समूह कॉल साझा किया है।</string>
+    <string name="cometchat_in_thread">" एक सूत्र में"</string>
+    <string name="cometchat_incoming">इनकमिंग</string>
+    <string name="cometchat_incorrect_password">गलत कूटशब्द</string>
+    <string name="cometchat_is_typing">टाइप कर रहा है...</string>
+    <string name="cometchat_join">शामिल होना</string>
+    <string name="cometchat_join_group_text">%1$s ग्रुप ऐक्सेस करने के लिए पासवर्ड डालें। </string>
+    <string name="cometchat_joined">शामिल हो गए</string>
+    <string name="cometchat_kicked_by">लात मारी</string>
+    <string name="cometchat_launch">लांच</string>
+    <string name="cometchat_leave_group">लीव ग्रुप</string>
+    <string name="cometchat_leave_group_text">क्या आप वाकई समूह छोड़ना चाहते हैं?</string>
+    <string name="cometchat_left">समूह छोड़ दिया</string>
+    <string name="cometchat_made">" बनाया"</string>
+    <string name="cometchat_meet_with">के साथ मिलें </string>
+    <string name="cometchat_member">सदस्य</string>
+    <string name="cometchat_members">सदस्य</string>
+    <string name="cometchat_message">एक संदेश लिखें</string>
+    <string name="cometchat_message_audio">🎵 ऑडियो</string>
+    <string name="cometchat_message_card"> 🪧कार्ड</string>
+    <string name="cometchat_message_file">📁 फ़ाइल</string>
+    <string name="cometchat_message_form">📋प्रपत्र</string>
+    <string name="cometchat_message_image">📷 फोटो</string>
+    <string name="cometchat_message_information">जानकारी</string>
+    <string name="cometchat_message_privately">निजी तौर पर संदेश</string>
+    <string name="cometchat_message_receipt">संदेश की प्राप्ति”</string>
+    <string name="cometchat_message_video">📹 वीडियो</string>
+    <string name="cometchat_messages">सन्देश</string>
+    <string name="cometchat_min_meeting"> न्यूनतम बैठक</string>
+    <string name="cometchat_missed_call">मिस्ड</string>
+    <string name="cometchat_moderator">मॉडरेटर</string>
+    <string name="cometchat_more_option">ज़्यादा</string>
+    <string name="cometchat_more_times">ज़्यादा बार</string>
+    <string name="cometchat_name">नाम</string>
+    <string name="cometchat_new_chat">नई चैट</string>
+    <string name="cometchat_new_group">न्यू ग्रुप</string>
+    <string name="cometchat_new_message">नया संदेश</string>
+    <string name="cometchat_new_messages">नए संदेश</string>
+    <string name="cometchat_no">नहीं</string>
+    <string name="cometchat_no_call_record">कोई कॉल नहीं</string>
+    <string name="cometchat_no_calls">कोई कॉल नहीं</string>
+    <string name="cometchat_no_chats">" चाय त्"</string>
+    <string name="cometchat_no_conversations">आपके पास कोई बातचीत नहीं है।</string>
+    <string name="cometchat_no_groups">" कोई समूह नहीं"</string>
+    <string name="cometchat_no_members">कोई सदस्य नहीं</string>
+    <string name="cometchat_no_message_found">कोई संदेश नहीं मिला</string>
+    <string name="cometchat_no_participants">कोई सहभागी नहीं</string>
+    <string name="cometchat_no_quick_time_slots_available">कोई टाइम स्लॉट उपलब्ध नहीं है</string>
+    <string name="cometchat_no_recipient">कोई प्राप्तकर्ता नहीं</string>
+    <string name="cometchat_no_recordings">कोई रिकॉर्डिंग नहीं</string>
+    <string name="cometchat_no_stickers">कोई स्टिकर उपलब्ध नहीं</string>
+    <string name="cometchat_no_time_slots_available">इस तिथि के लिए कोई समय स्लॉट उपलब्ध नहीं है। कृपया कोई और तारीख आज़माएँ।</string>
+    <string name="cometchat_no_user">कोई उपयोगकर्ता नहीं</string>
+    <string name="cometchat_offline">ऑफ़लाइन</string>
+    <string name="cometchat_okay">ठीक है</string>
+    <string name="cometchat_online">ऑनलाइन</string>
+    <string name="cometchat_open_document">दस्तावेज़ खोलें</string>
+    <string name="cometchat_option">विकल्प</string>
+    <string name="cometchat_outgoing">आउटगोइंग</string>
+    <string name="cometchat_owner">ओनर</string>
+    <string name="cometchat_participant">प्रतिभागी</string>
+    <string name="cometchat_photo_video_library">फोटो और वीडियो लाइब्रेरी</string>
+    <string name="cometchat_please_try_another_password">कृपया दूसरा पासवर्ड आज़माएं</string>
+    <string name="cometchat_protected_group">प्रोटेक्टेड ग्रुप</string>
+    <string name="cometchat_question">प्रश्न</string>
+    <string name="cometchat_read">पढ़ें</string>
+    <string name="cometchat_receipt_information">रसीद की जानकारी</string>
+    <string name="cometchat_recordings">रिकॉर्डिंग्स</string>
+    <string name="cometchat_rejected_call">अस्वीकृत</string>
+    <string name="cometchat_replies">जवाब</string>
+    <string name="cometchat_reply">उत्तर दें</string>
+    <string name="cometchat_reply_in_thread">जवाब दें</string>
+    <string name="cometchat_sdk_incorrect_password_error">समूह के लिए पासवर्ड गलत है।</string>
+    <string name="cometchat_search">खोज</string>
+    <string name="cometchat_select_a_day">एक दिन चुनें</string>
+    <string name="cometchat_select_a_time">एक समय चुनें</string>
+    <string name="cometchat_send_audio_files">ऑडियो फ़ाइलें भेजें</string>
+    <string name="cometchat_send_files">फ़ाइलें व दस्तावेज़</string>
+    <string name="cometchat_sensitive_content">असुरक्षित सामग्री।</string>
+    <string name="cometchat_server_error">सर्वर त्रुटि</string>
+    <string name="cometchat_share_message">शेयर करें</string>
+    <string name="cometchat_share_whiteboard">व्हाइटबोर्ड साझा करें</string>
+    <string name="cometchat_share_writeboard">लेखनबोर्ड साझा करें</string>
+    <string name="cometchat_shared_a_sticker">एक स्टीकर साझा किया</string>
+    <string name="cometchat_something_went_wrong">कुछ गलत हो गया.</string>
+    <string name="cometchat_something_went_wrong_please_try_again">कुछ गड़बड़ हो गई। कृपया फिर से कोशिश करें।</string>
+    <string name="cometchat_suggest_a_reply">जवाब सुझाएं</string>
+    <string name="cometchat_tag_item">Tag Item</string>
+    <string name="cometchat_take_a_photo">एक फोटो लें</string>
+    <string name="cometchat_tap_to_remove">हटाने के लिए टैप करें</string>
+    <string name="cometchat_tap_to_start_conversation">बातचीत शुरू करने के लिए टैप करें</string>
+    <string name="cometchat_text_copied">क्लिपबोर्ड में पाठ की नक़ल</string>
+    <string name="cometchat_this_message_deleted">⚠️ यह संदेश मिटाया गया था</string>
+    <string name="cometchat_thread_title">थ्रेड</string>
+    <string name="cometchat_time_at_a_time">एक समय में कई बार</string>
+    <string name="cometchat_time_slot_no_longer_available_please_choose_another">टाइम स्लॉट अब उपलब्ध नहीं है। कृपया कोई दूसरा चुनें।</string>
+    <string name="cometchat_today">आज</string>
+    <string name="cometchat_transfer_ownership">आप समूह के स्वामी हैं, कृपया समूह छोड़ने से पहले किसी सदस्य को स्वामित्व हस्तांतरित करें।</string>
+    <string name="cometchat_transfer_ownership_text">स्वामित्व स्थानांतरित करें</string>
+    <string name="cometchat_translate_message">ट्रांसलेट करें</string>
+    <string name="cometchat_translated_message">अनुवादित संदेश</string>
+    <string name="cometchat_translation_error">कोई अनुवाद उपलब्ध नहीं</string>
+    <string name="cometchat_try_again">पुनः प्रयास करें</string>
+    <string name="cometchat_try_new_slot">आपका स्लॉट बुक कर लिया गया है, कृपया एक नया स्लॉट आज़माएं।</string>
+    <string name="cometchat_type_private">प्राइवेट</string>
+    <string name="cometchat_type_protected">सुरक्षित</string>
+    <string name="cometchat_type_public">पब्लिक</string>
+    <string name="cometchat_unanswered">अनुत्तरित</string>
+    <string name="cometchat_unban">अप्रतिबंधित करें</string>
+    <string name="cometchat_unblock_user">यूज़र को अनब्लॉक करें</string>
+    <string name="cometchat_updating">अद्यतीकरण</string>
+    <string name="cometchat_uploading">अपलोडिंग</string>
+    <string name="cometchat_users">उपयोक्ता</string>
+    <string name="cometchat_video_call">वीडियो कॉल</string>
+    <string name="cometchat_view">देखें</string>
+    <string name="cometchat_view_members">सदस्यों को देखें</string>
+    <string name="cometchat_view_profile">प्रोफ़ाइल देखें</string>
+    <string name="cometchat_vote">वोट</string>
+    <string name="cometchat_voted_success">सफलतापूर्वक मतदान किया गया</string>
+    <string name="cometchat_votes">वोट</string>
+    <string name="cometchat_yes">हाँ</string>
+    <string name="cometchat_yesterday">कल</string>
+    <string name="cometchat_you">आप</string>
+    <string name="cometchat_you_can_mention_up_to">आप निम्नलिखित का उल्लेख कर सकते हैं</string>
+    <string name="cometchat_you_created_group_call">आपने एक समूह कॉल बनाया है।</string>
+    <string name="cometchat_your_meeting_has_been_scheduled">आपकी मीटिंग शेड्यूल कर दी गई है।</string>
+    <string msgid="6083905920877235314" name="copy">"कॉपी करें"</string>
+    <string name="error_icon_content_description">गड़बड़ी</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"बेहतर सेटिंग"</string>
+    <string name="exposed_dropdown_menu_content_description">ड्रॉपडाउन मेन्यू दिखाएं</string>
+    <string name="group">समूह?</string>
+    <string name="icon_content_description">डायलॉग का आइकॉन</string>
+    <string name="item_view_role_description">टैब</string>
+    <string name="material_clock_toggle_content_description">AM या PM चुनें</string>
+    <string name="material_hour_24h_suffix">%1$s घंटे</string>
+    <string name="material_hour_selection">घंटा चुनें</string>
+    <string name="material_hour_suffix">%1$s बजे</string>
+    <string name="material_minute_selection">मिनट चुनें</string>
+    <string name="material_minute_suffix">%1$s मिनट</string>
+    <string name="material_timepicker_am">पूर्वाह्न</string>
+    <string name="material_timepicker_clock_mode_description">समय इनपुट के लिए घड़ी मोड पर जाएं.</string>
+    <string name="material_timepicker_hour">घंटा</string>
+    <string name="material_timepicker_minute">मिनट</string>
+    <string name="material_timepicker_pm">अपराह्न</string>
+    <string name="material_timepicker_select_time">समय चुनें</string>
+    <string name="material_timepicker_text_input_mode_description">समय इनपुट के लिए लेख इनपुट मोड पर जाएं.</string>
+    <string name="mtrl_badge_numberless_content_description">नई सूचना</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s हटाएं</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">%1$d से ज़्यादा नई सूचनाएं</string>
+    <string name="mtrl_picker_a11y_next_month">अगले महीने पर जाएं</string>
+    <string name="mtrl_picker_a11y_prev_month">पिछले महीने पर जाएं</string>
+    <string name="mtrl_picker_announce_current_range_selection">शुरू होने की तारीख चुनें: %1$s – खत्म होने की तारीख चुनें: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">फ़िलहाल, यह चुना गया है: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">कोई भी तारीख नहीं चुनी गई</string>
+    <string name="mtrl_picker_cancel">रद्द करें</string>
+    <string name="mtrl_picker_confirm">ठीक है</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">तारीख चुनें</string>
+    <string name="mtrl_picker_date_header_unselected">चुनी गई तारीख</string>
+    <string name="mtrl_picker_day_of_week_column_header">दिनों का कॉलम: %1$s</string>
+    <string name="mtrl_picker_end_date_description">खत्म होने की तारीख %1$s</string>
+    <string name="mtrl_picker_invalid_format">गलत फ़ॉर्मैट.</string>
+    <string name="mtrl_picker_invalid_format_example">उदाहरण: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">%1$s का इस्तेमाल करें</string>
+    <string name="mtrl_picker_invalid_range">तारीखों की अमान्य सीमा.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">मौजूदा साल %1$d पर जाएं</string>
+    <string name="mtrl_picker_navigate_to_year_description">साल %1$d पर जाएं</string>
+    <string name="mtrl_picker_out_of_range">चुनी गई तारीख मान्य नहीं है: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">शुरू होने की तारीख – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – खत्म होने की तारीख</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">रेंज चुनें</string>
+    <string name="mtrl_picker_range_header_unselected">शुरू होने की तारीख – खत्म होने की तारीख</string>
+    <string name="mtrl_picker_save">सेव करें</string>
+    <string name="mtrl_picker_start_date_description">शुरू होने की तारीख %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">तारीख</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">खत्म होने की तारीख</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">शुरू होने की तारीख</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">आज %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">कैलेंडर के इनपुट मोड पर स्विच करें</string>
+    <string name="mtrl_picker_toggle_to_day_selection">कैलेंडर के व्यू पर स्विच करने के लिए टैप करें</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">टेक्स्ट के इनपुट मोड पर स्विच करें</string>
+    <string name="mtrl_picker_toggle_to_year_selection">साल के व्यू पर स्विच करने के लिए टैप करें</string>
+    <string name="mtrl_timepicker_cancel">रद्द करें</string>
+    <string name="mtrl_timepicker_confirm">ठीक है</string>
+    <string msgid="6573031135582639649" name="not_set">"सेट नहीं है"</string>
+    <string name="password_toggle_content_description">पासवर्ड दिखाएं</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" क्लिपबोर्ड पर कॉपी किया गया."</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"खोजें"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"बंद"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"चालू"</string>
+</resources>

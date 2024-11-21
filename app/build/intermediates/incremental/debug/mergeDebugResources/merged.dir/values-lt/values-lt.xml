@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d naujas pranešimas</item>
+    <item quantity="few">%d nauji pranešimai</item>
+    <item quantity="many">%d naujo pranešimo</item>
+    <item quantity="other">%d naujų pranešimų</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Eiti į pagrindinį puslapį"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Naršyti aukštyn"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Daugiau parinkčių"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Atlikta"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Žr. viską"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Pasirinkite programą"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"IŠJUNGTI"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ĮJUNGTI"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"„Alt“ +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"„Ctrl“ +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"„delete“"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"„enter“"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"„Function“ +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"„Meta“ +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"„Shift“ +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"„space“"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"„Sym“ +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"„Menu“ +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Ieškoti…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Išvalyti užklausą"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Paieškos užklausa"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Ieškoti"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Pateikti užklausą"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Paieška balsu"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Bendrinti su"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Bendrinti naudojant programą „<ns1:g id="APPLICATION_NAME">%s</ns1:g>“"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Sutraukti"</string>
+    <string name="bottomsheet_action_collapse">Sutraukti apatinį lapą</string>
+    <string name="bottomsheet_action_expand">Išskleisti apatinį lapą</string>
+    <string name="bottomsheet_action_expand_halfway">Išskleisti iki pusės</string>
+    <string name="bottomsheet_drag_handle_clicked">Vilkimo rankenėlė dukart paliesta</string>
+    <string name="bottomsheet_drag_handle_content_description">Vilkimo rankenėlė</string>
+    <string name="call">Skambutis</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Atsakyti"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Vaizdo įrašas"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Atmesti"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Baigti pok."</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Gaunamasis skambutis"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Vykstantis skambutis"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Gaunamojo skambučio tikrinimas"</string>
+    <string name="character_counter_content_description">Įvesta simbolių: %1$d iš %2$d</string>
+    <string name="character_counter_overflowed_content_description">Viršytas simbolių skaičius: %1$d iš %2$d</string>
+    <string name="clear_text_end_icon_content_description">Išvalyti tekstą</string>
+    <string name="cometchat_accept">Accetta</string>
+    <string name="cometchat_accepted">accettati</string>
+    <string name="cometchat_add_a_new_option"> Pridėti naują parinktį </string>
+    <string name="cometchat_add_members">Aggiungi membri</string>
+    <string name="cometchat_add_reaction">Aggiungi reazione</string>
+    <string name="cometchat_add_to_chat">" Pridėti prie pokalbių"</string>
+    <string name="cometchat_added"> pridėta </string>
+    <string name="cometchat_admin"> Administratorius </string>
+    <string name="cometchat_ai_ice_breaker_text">Generazione di rompighiaccio...</string>
+    <string name="cometchat_all">Tutti</string>
+    <string name="cometchat_ask_ai_bot">Chiedi ai bot AI</string>
+    <string name="cometchat_ask_bot">Chiedere</string>
+    <string name="cometchat_ask_bot_subtitle">Bot AI</string>
+    <string name="cometchat_ban"> Uždrausti </string>
+    <string name="cometchat_banned">Vietato</string>
+    <string name="cometchat_banned_members">Membri vietati</string>
+    <string name="cometchat_block_user">Blocca utente</string>
+    <string name="cometchat_book_new_slot">Prenota un nuovo slot</string>
+    <string name="cometchat_bot_first_message">Come posso aiutarti con questa conversazione? Per favore fammi una domanda e ti consiglierò 🙂</string>
+    <string name="cometchat_busy_call">Occupato</string>
+    <string name="cometchat_call_details">Dettagli della chiamata</string>
+    <string name="cometchat_call_history">Cronologia chiamate</string>
+    <string name="cometchat_calling">vocazione</string>
+    <string name="cometchat_cancel"> Atšaukti </string>
+    <string name="cometchat_cancel_call">Annullato</string>
+    <string name="cometchat_cc_no_message">Non ci sono ancora messaggi qui...</string>
+    <string name="cometchat_channel_description">" Kanalo aprašymas"</string>
+    <string name="cometchat_comet_chat_enter_a_text">Inserisci un testo</string>
+    <string name="cometchat_conference_call">teleconferenza</string>
+    <string name="cometchat_conversation_summary">Riepilogo della conversazione</string>
+    <string name="cometchat_conversation_title"> Pokalbiai </string>
+    <string name="cometchat_copy_message">Copia</string>
+    <string name="cometchat_create_a_poll"> Sukurkite apklausą </string>
+    <string name="cometchat_create_group">sukurti grupę</string>
+    <string name="cometchat_custom_message_document"> 📃 Dokumentas </string>
+    <string name="cometchat_custom_message_meeting"> "📹 Grupės skambutis" </string>
+    <string name="cometchat_custom_message_poll"> "📊 Apklausos" </string>
+    <string name="cometchat_custom_message_sticker"> "💟 Lipdukas" </string>
+    <string name="cometchat_custom_message_whiteboard"> 📝 Lenta </string>
+    <string name="cometchat_decline">Declino</string>
+    <string name="cometchat_delete">Elimina</string>
+    <string name="cometchat_delete_and_exit">Elimina ed esci</string>
+    <string name="cometchat_delete_conversation_message">Ar norėtumėte ištrinti šį pokalbį?</string>
+    <string name="cometchat_delete_group_text">Sei sicuro di voler eliminare il gruppo?</string>
+    <string name="cometchat_delete_message">Elimina</string>
+    <string name="cometchat_deleting_conversation">Ištrinamas pokalbis</string>
+    <string name="cometchat_deliver">Consegnato</string>
+    <string name="cometchat_details">Dettagli</string>
+    <string name="cometchat_downloading">atsisiųsti</string>
+    <string name="cometchat_edit_message">Modifica</string>
+    <string name="cometchat_emoji">emoji</string>
+    <string name="cometchat_ended"> Baigėsi </string>
+    <string name="cometchat_enter_your_option"> Įveskite savo parinktį </string>
+    <string name="cometchat_err_blank_uid_message"> UID negali būti tuščias. Pateikite galiojantį UID </string>
+    <string name="cometchat_err_default_message"> Kažkas ne taip </string>
+    <string name="cometchat_err_empty_group_name_message"> Grupės pavadinimas negali būti tuščias arba tuščias </string>
+    <string name="cometchat_err_internet_unavailable"> Nėra interneto ryšio. Vėliau bandykite dar kartą </string>
+    <string name="cometchat_err_invalid_guid_message"> Pateikite galiojantį GUID </string>
+    <string name="cometchat_err_invalid_uid_message"> Pateikite galiojantį UID </string>
+    <string name="cometchat_err_no_options"> Apklausos \" parinkčių \" nėra arba jos neteisingos </string>
+    <string name="cometchat_err_no_poll_id"> Trūksta apklausos \" id \" </string>
+    <string name="cometchat_err_no_question"> Trūksta apklausos \" klausimo \" </string>
+    <string name="cometchat_err_no_receiver"> Trūksta \" imtuvo \" (UID / GUID) </string>
+    <string name="cometchat_err_no_receiver_type"> Trūksta \" receiverType \" </string>
+    <string name="cometchat_err_not_poll_creator"> Jūs nesate apklausos kūrėjas </string>
+    <string name="cometchat_err_password_missing_message"> Slaptažodis yra privalomas saugomai grupei </string>
+    <string name="cometchat_err_poll_not_found"> ​​Apklausa neegzistuoja </string>
+    <string name="cometchat_err_uid_with_space_message"> UID negali būti tarpų. Pateikite galiojantį UID </string>
+    <string name="cometchat_error"> klaida </string>
+    <string name="cometchat_extension_is_not_enabled"> Įgalinti plėtinį iš „CometChat Pro“ informacijos suvestinės </string>
+    <string name="cometchat_extension_not_found">Pateikto plėtinio nepavyko rasti.</string>
+    <string name="cometchat_file_download_failed">Scaricamento del file non riuscito.</string>
+    <string name="cometchat_file_not_exist"> Failas neegzistuoja </string>
+    <string name="cometchat_fill_this_field"> Užpildykite šį lauką </string>
+    <string name="cometchat_form_completion_message">Grazie per aver compilato il modulo.</string>
+    <string name="cometchat_generate_summary">Genera un riepilogo</string>
+    <string name="cometchat_generating_replies">Generazione di risposte</string>
+    <string name="cometchat_generating_summary">Generazione del riassunto</string>
+    <string name="cometchat_grant_camera_permission"> Prašome suteikti kameros leidimą iš programos nustatymo </string>
+    <string name="cometchat_grant_phone_state_permission">Concedi l\'autorizzazione allo stato del telefono dalle impostazioni dell\'app</string>
+    <string name="cometchat_grant_storage_permission"> Suteikite saugyklos leidimą iš programos nustatymo </string>
+    <string name="cometchat_group_password">Password di gruppo</string>
+    <string name="cometchat_groups">Gruppi</string>
+    <string name="cometchat_has_shared_group_call"> bendrino grupės skambutį. </string>
+    <string name="cometchat_in_thread">Gijoje</string>
+    <string name="cometchat_incoming"> Gaunamasis </string>
+    <string name="cometchat_incorrect_password">Password errata</string>
+    <string name="cometchat_is_typing">rašo ..</string>
+    <string name="cometchat_join"> Prisijungti </string>
+    <string name="cometchat_join_group_text">Immettere la password per accedere al gruppo %1$s. </string>
+    <string name="cometchat_joined"> prisijungė </string>
+    <string name="cometchat_kicked_by"> spyrė </string>
+    <string name="cometchat_launch"> Paleisti </string>
+    <string name="cometchat_leave_group">Lascia il gruppo</string>
+    <string name="cometchat_leave_group_text">Sei sicuro di voler lasciare il gruppo?</string>
+    <string name="cometchat_left"> kairė </string>
+    <string name="cometchat_made"> pagaminta </string>
+    <string name="cometchat_meet_with">Incontro con </string>
+    <string name="cometchat_member">" narys"</string>
+    <string name="cometchat_members"> Nariai </string>
+    <string name="cometchat_message"> Parašykite pranešimą </string>
+    <string name="cometchat_message_audio">🎵  Garsas </string>
+    <string name="cometchat_message_card"> 🪧Carta</string>
+    <string name="cometchat_message_file">📁 Failas </string>
+    <string name="cometchat_message_form">📋Modulo</string>
+    <string name="cometchat_message_image">📷 Vaizdas </string>
+    <string name="cometchat_message_information">Informazioni</string>
+    <string name="cometchat_message_privately">Messaggio privato</string>
+    <string name="cometchat_message_receipt">Ricevuta messaggio»</string>
+    <string name="cometchat_message_video">📹 Vaizdo įrašas </string>
+    <string name="cometchat_messages">Messaggio</string>
+    <string name="cometchat_min_meeting"> riunione minima</string>
+    <string name="cometchat_missed_call"> Praleista </string>
+    <string name="cometchat_moderator"> Moderatorius </string>
+    <string name="cometchat_more_option">di più</string>
+    <string name="cometchat_more_times">Più volte</string>
+    <string name="cometchat_name">Nam</string>
+    <string name="cometchat_new_chat">Nuova chat</string>
+    <string name="cometchat_new_group">Nuovo gruppo</string>
+    <string name="cometchat_new_message">Nauja žinutė</string>
+    <string name="cometchat_new_messages">Nauji pranešimai</string>
+    <string name="cometchat_no"> Ne </string>
+    <string name="cometchat_no_call_record">Nessuna chiamata</string>
+    <string name="cometchat_no_calls">Nessuna chiamata</string>
+    <string name="cometchat_no_chats">Arbatos ts</string>
+    <string name="cometchat_no_conversations"> Jūs neturite pokalbių. </string>
+    <string name="cometchat_no_groups">" Nėra grupių"</string>
+    <string name="cometchat_no_members">Nessun membro</string>
+    <string name="cometchat_no_message_found">Nessun messaggio trovato</string>
+    <string name="cometchat_no_participants">Nessun partecipante</string>
+    <string name="cometchat_no_quick_time_slots_available">Nessuna fascia oraria disponibile</string>
+    <string name="cometchat_no_recipient">Nessun destinatario</string>
+    <string name="cometchat_no_recordings">Nessuna registrazione</string>
+    <string name="cometchat_no_stickers">Non ci sono adesivi disponibili</string>
+    <string name="cometchat_no_time_slots_available">Nessuna fascia oraria disponibile per questa data. Prova con un\'altra data.</string>
+    <string name="cometchat_no_user">" Nėra vartotojų"</string>
+    <string name="cometchat_offline">disconnesso</string>
+    <string name="cometchat_okay">Va bene</string>
+    <string name="cometchat_online">in linea</string>
+    <string name="cometchat_open_document">Apri documento</string>
+    <string name="cometchat_option"> Parinktis </string>
+    <string name="cometchat_outgoing"> Siunčiama </string>
+    <string name="cometchat_owner">Proprietario</string>
+    <string name="cometchat_participant"> dalyvis </string>
+    <string name="cometchat_photo_video_library"> Nuotrauka ir amp; Vaizdo įrašų biblioteka </string>
+    <string name="cometchat_please_try_another_password">Prova con un\'altra password</string>
+    <string name="cometchat_protected_group">Gruppo protetto</string>
+    <string name="cometchat_question"> Klausimas </string>
+    <string name="cometchat_read">Leggi</string>
+    <string name="cometchat_receipt_information">Informazioni sulla ricevuta</string>
+    <string name="cometchat_recordings">Registrazioni</string>
+    <string name="cometchat_rejected_call"> Atmesta </string>
+    <string name="cometchat_replies">Atsakymai</string>
+    <string name="cometchat_reply">atsakymas</string>
+    <string name="cometchat_reply_in_thread">Rispondi</string>
+    <string name="cometchat_sdk_incorrect_password_error">La password per il gruppo non è corretta.</string>
+    <string name="cometchat_search"> Paieška </string>
+    <string name="cometchat_select_a_day">Seleziona un giorno</string>
+    <string name="cometchat_select_a_time">Seleziona un orario</string>
+    <string name="cometchat_send_audio_files"> Siųsti garso failus </string>
+    <string name="cometchat_send_files"> Failai ir amp; Dokumentai </string>
+    <string name="cometchat_sensitive_content"> Nesaugus turinys. </string>
+    <string name="cometchat_server_error"> Serverio klaida </string>
+    <string name="cometchat_share_message">Condividi</string>
+    <string name="cometchat_share_whiteboard"> Bendrinti baltąją lentą </string>
+    <string name="cometchat_share_writeboard"> Bendrinti rašymo lentą </string>
+    <string name="cometchat_shared_a_sticker"> Bendrino animuotąjį paveiksliuką </string>
+    <string name="cometchat_something_went_wrong">Qualcosa è andato storto</string>
+    <string name="cometchat_something_went_wrong_please_try_again">Qualcosa è andato storto. Per favore riprova.</string>
+    <string name="cometchat_suggest_a_reply">Suggerisci una risposta</string>
+    <string name="cometchat_tag_item">Tag Item</string>
+    <string name="cometchat_take_a_photo"> Fotografuokite </string>
+    <string name="cometchat_tap_to_remove">Tocca per rimuovere</string>
+    <string name="cometchat_tap_to_start_conversation"> Palieskite, kad pradėtumėte pokalbį </string>
+    <string name="cometchat_text_copied"> Tekstas nukopijuotas į mainų sritį </string>
+    <string name="cometchat_this_message_deleted"> ⚠️ Šis pranešimas buvo ištrintas </string>
+    <string name="cometchat_thread_title">Discussione</string>
+    <string name="cometchat_time_at_a_time">volte alla volta</string>
+    <string name="cometchat_time_slot_no_longer_available_please_choose_another">Fascia oraria non più disponibile. Per favore scegline un altro.</string>
+    <string name="cometchat_today">šiandien</string>
+    <string name="cometchat_transfer_ownership">Sei il proprietario del gruppo, trasferisci la proprietà a un membro prima di lasciare il gruppo.</string>
+    <string name="cometchat_transfer_ownership_text">Trasferimento di proprietà</string>
+    <string name="cometchat_translate_message">Tradurre</string>
+    <string name="cometchat_translated_message">Messaggio tradotto</string>
+    <string name="cometchat_translation_error"> Nėra vertimo </string>
+    <string name="cometchat_try_again">BANDYK IŠ NAUJO</string>
+    <string name="cometchat_try_new_slot">Il tuo posto è stato prenotato, prova con un nuovo slot.</string>
+    <string name="cometchat_type_private">Privati</string>
+    <string name="cometchat_type_protected">Protetto</string>
+    <string name="cometchat_type_public">Pubblico</string>
+    <string name="cometchat_unanswered">senza risposta</string>
+    <string name="cometchat_unban"> Unban </string>
+    <string name="cometchat_unblock_user">Sblocca utente</string>
+    <string name="cometchat_updating"> Atnaujinama </string>
+    <string name="cometchat_uploading"> Įkėlimas </string>
+    <string name="cometchat_users">Utenti</string>
+    <string name="cometchat_video_call"> Vaizdo skambutis </string>
+    <string name="cometchat_view"> Rodinys </string>
+    <string name="cometchat_view_members">Visualizza membri</string>
+    <string name="cometchat_view_profile">Visualizza profilo</string>
+    <string name="cometchat_vote">Balsas</string>
+    <string name="cometchat_voted_success"> Balsuota sėkmė </string>
+    <string name="cometchat_votes">Balsai</string>
+    <string name="cometchat_yes"> Taip </string>
+    <string name="cometchat_yesterday"> Vakar </string>
+    <string name="cometchat_you"> Jūs </string>
+    <string name="cometchat_you_can_mention_up_to">Puoi menzionare fino a</string>
+    <string name="cometchat_you_created_group_call"> Jūs sukūrėte grupės skambutį. </string>
+    <string name="cometchat_your_meeting_has_been_scheduled">La tua riunione è stata programmata.</string>
+    <string msgid="6083905920877235314" name="copy">"Kopijuoti"</string>
+    <string name="error_icon_content_description">Klaida</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Išplėstiniai"</string>
+    <string name="exposed_dropdown_menu_content_description">Rodyti išskleidžiamąjį meniu</string>
+    <string name="group">grupp</string>
+    <string name="icon_content_description">Dialogo lango piktograma</string>
+    <string name="item_view_role_description">Skirtukas</string>
+    <string name="material_clock_toggle_content_description">Pasirinkite „iki pietų“ arba „po pietų“</string>
+    <string name="material_hour_24h_suffix">%1$s val.</string>
+    <string name="material_hour_selection">Pasirinkite valandą</string>
+    <string name="material_hour_suffix">%1$s val.</string>
+    <string name="material_minute_selection">Pasirinkite minutes</string>
+    <string name="material_minute_suffix">%1$s min.</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Laiko įvestį pateikti perjungus į laikrodžio režimą.</string>
+    <string name="material_timepicker_hour">Valanda</string>
+    <string name="material_timepicker_minute">Minutė</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Pasirinkite laiką</string>
+    <string name="material_timepicker_text_input_mode_description">Laiko įvestį pateikti perjungus į teksto įvesties režimą.</string>
+    <string name="mtrl_badge_numberless_content_description">Naujas pranešimas</string>
+    <string name="mtrl_chip_close_icon_content_description">Pašalinti %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Naujų pranešimų: daugiau nei %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Pakeisti į kitą mėnesį</string>
+    <string name="mtrl_picker_a11y_prev_month">Pakeisti į ankstesnį mėnesį</string>
+    <string name="mtrl_picker_announce_current_range_selection">Pradžios datos pasirinkimas: %1$s – Pabaigos datos pasirinkimas: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Dabartinis pasirinkimas: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">nėra</string>
+    <string name="mtrl_picker_cancel">Atšaukti</string>
+    <string name="mtrl_picker_confirm">Gerai</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Pasirinkite datą</string>
+    <string name="mtrl_picker_date_header_unselected">Pasirinkta data</string>
+    <string name="mtrl_picker_day_of_week_column_header">Dienų stulpelis: %1$s</string>
+    <string name="mtrl_picker_end_date_description">Pabaigos data %1$s</string>
+    <string name="mtrl_picker_invalid_format">Netinkamas formatas.</string>
+    <string name="mtrl_picker_invalid_format_example">Pavyzdys: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Naudoti: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Netinkamas diapazonas.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Eiti į dabartinius metus %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Eiti į %1$d metus</string>
+    <string name="mtrl_picker_out_of_range">Nepatenka į diapazoną: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Pradžios data–%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s–pabaigos data</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Pasirinkite diapazoną</string>
+    <string name="mtrl_picker_range_header_unselected">Pradžios data–pabaigos data</string>
+    <string name="mtrl_picker_save">Išsaugoti</string>
+    <string name="mtrl_picker_start_date_description">Pradžios data %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Pabaigos data</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Pradžios data</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">Šiandien %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Perjungti į kalendoriaus įvesties režimą</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Palieskite, kad perjungtumėte į Kalendoriaus rodinį</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Perjungti į teksto įvesties režimą</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Palieskite, kad perjungtumėte į metų rodinį</string>
+    <string name="mtrl_timepicker_cancel">Atšaukti</string>
+    <string name="mtrl_timepicker_confirm">Gerai</string>
+    <string msgid="6573031135582639649" name="not_set">"Nenustatyta"</string>
+    <string name="password_toggle_content_description">Rodyti slaptažodį</string>
+    <string msgid="6685851473431805375" name="preference_copied">"Suvestinė „<ns1:g id="SUMMARY">%1$s</ns1:g>“ nukopijuota į iškarpinę."</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Ieškoti"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"IŠJUNGTA"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ĮJUNGTA"</string>
+</resources>
